@@ -38,5 +38,8 @@ desktop.ini
 # Private (optional future use)
 private/
 
+# Secrets — credential store (NEVER commit; plaintext on disk only, excluded from git history)
+secrets/
+
 # Claude Code session-local settings (per-machine permissions)
 .claude/settings.local.json

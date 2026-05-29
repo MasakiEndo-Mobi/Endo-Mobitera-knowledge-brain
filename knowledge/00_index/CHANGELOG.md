@@ -6,6 +6,34 @@
 
 ## 2026-05-29
 
+### Added — kb-intake 一括取り込み（OJT報告アウトライン・825Dコンテキスト総括・OJTレビュー議事録）
+- `knowledge/80_sandbox/ideas/2026-04-24_ojt-4q-final-report-outline.md` (`sandbox.ojt-4q-final-report-outline`): 2年目OJT最終報告(4/24)のアウトライン。IPONC×825D×効率化の三本柱で1年を総括した成果物（議論プロセスログ込み）。佐藤レビュー議事録に depends_on。
+- `knowledge/10_projects/24CY_IVI_825D/meetings/2026-04-16_ojt-4q-report-review.md` (`ops.meeting.2026-04-16-ojt-4q-report-review`): 佐藤さんとのOJT4Q発表資料レビュー。21分→15分圧縮・825D実開発を主軸にAI/組織課題は控えめにする方針合意。↑アウトラインの佐藤フィードバックの出典。
+
+### Compiled — OJTレビュー議事録から decision×2 / task×3 を抽出（compile-meeting）
+議事録 `ops.meeting.2026-04-16-ojt-4q-report-review` を `status: compiled` 化。4/24報告実施済のため遠藤タスクは `done`。
+- `ops.decision.24cy-ivi-825d.presentation-time-format` (DEC-0001): OJT4Q発表を15分枠に圧縮（decided）
+- `ops.decision.24cy-ivi-825d.ojt-focus-on-825d` (DEC-0002): OJT主題を825D実開発に置く（decided）
+- `ops.task.24cy-ivi-825d.compress-ojt-slides` (TASK-0001): 資料を15分枠に圧縮・825D主軸へ再構成（done）
+- `ops.task.24cy-ivi-825d.share-review-with-sato` (TASK-0002): 佐藤さんへレビュー共有・桐生さんCC追加（done）
+- `ops.task.24cy-ivi-825d.ai-dx-separate-track` (TASK-0003): AI/DXを別枠で関係者へ種まき（proposed・佐藤担当）
+
+### Added — ツール仕様（SPO Tool Box）
+- `knowledge/50_research/spo-path-converter.md` (`res.tooling.spo-path-converter`): SharePointパス変換君の確定仕様（C#/.NET4.7）。クリップボードのSP/Teamsリンクを階層フォルダリンクに変換。raw版 `source.methods.r-tool-spo-tool-box(-2)` を canonical 整理。
+
+### Note — 認証情報は KB 管理外（git除外 `secrets/`）
+Eiger(Markforged) パスワード・LiteLLM(社内AIゲートウェイ) APIキー等は `secrets/credentials.md`（`.gitignore` 済・git履歴に入らない）で一括管理し、`knowledge/` には転記しない方針を確認。
+
+### Added — AI/DX イネーブルメント プロジェクト新設（meta-governance）
+横断テーマ「AI活用による業務効率化」を独立プロジェクト化（ローカルLLM＋クラウドAI: GitHub Copilot/NotebookLM/M365 Copilot 等）。
+- `knowledge/10_projects/ai-dx-enablement/` skeleton 作成（最小構成: meetings/daily-logs/decisions/tasks/requirements/assets。design-notes/test-reports は省略）
+- `ops.project.ai-dx-enablement`（README, status: active, phase: discovery, owner: self）
+- `ops.meeting.2026-04-24-local-llm-hearing`: 80_sandbox/research/ から `ai-dx-enablement/meetings/` へ移動・`project: [all]→[ai-dx-enablement]`・仮格納バナー除去
+- `ops.meeting.2026-05-27-ai-agent-efficiency`: 5/27 AIエージェント業務効率化お喋り場（高畠主催・20名）を新規格納
+- **AGENTS.md / research_map.md** のアクティブプロジェクト表に `24CY_IVI_825D`（従来未登録）と `ai-dx-enablement` を登録
+- LiteLLM APIキーは `secrets/`（git管理外）で管理し本議事録には記載しない方針
+- `knowledge/10_projects/24CY_IVI_825D/design-notes/project-context.md` (`proj.24cy-ivi-825d.design.project-context`): 825Dプロジェクト・コンテキスト総括（背景・体制・進捗・課題・日程・体制メンバー表）。`status: review`。HTMLタイムライン→MD変換・重複貼付け除去・壊れリンク(Viva Engage)修正済。体制メンバー表は overview より新しい体制更新（水野→トヨタPE異動・北川PE復帰）を含み、突合が必要。
+
 ### Added — 旧KB(from_old_kb)取り込み 第1波（計画: `sandbox.old-kb-intake-plan`）
 すべて `layer: raw`（L0/L1/L2・再リンクは後工程に遅延）。本文中の wikilink・画像埋め込み記法はテキスト無害化済み。
 
