@@ -5,7 +5,7 @@ doc_type: requirement
 project: [all]
 layer: canonical
 role_in_story: execution
-status: draft
+status: implementing
 as_of: 2026-05-29
 audience: [self, engineer]
 owners: [self]

@@ -62,6 +62,7 @@ STATUS_BY_TYPE = {
     "decision": {"proposed", "decided", "superseded", "archived"},
     "task": {"proposed", "in_progress", "blocked", "done", "cancelled"},
     "project": {"planning", "active", "on_hold", "completed", "cancelled"},
+    "requirement": {"draft", "approved", "implementing", "shipped", "deprecated"},
 }
 DEFAULT_STATUS_ENUM = {"draft", "review", "canonical", "archived"}
 
