@@ -311,6 +311,27 @@ design_phase: concept|detailed|validation|production
 | `skill-improve-loop` | 既存スキルの誤爆・未発火・品質低下を直す改善ループ |
 | `skill-regression-pack` | スキル改善時の回帰パックを作る |
 
+### 外部取り込みスキル（vendored: kepano/obsidian-skills, MIT）
+
+> 出典 https://github.com/kepano/obsidian-skills（Steph Ango / MIT）。upstream のまま保持し、改善ループの対象外。詳細・provenance は `.cursor/skills/_vendor-kepano-obsidian-skills/NOTICE.md`。
+
+| Skill | 用途 |
+|---|---|
+| `obsidian-markdown` | Obsidian Flavored Markdown（wikilink/callout/properties/embed）の作成・編集 |
+| `obsidian-bases` | Obsidian Bases（`.base`：DB ライクなビュー・フィルタ・数式） |
+| `json-canvas` | JSON Canvas（`.canvas`：ノード/エッジ/グループ）の作成・編集 |
+| `obsidian-cli` | Obsidian CLI による Vault 操作・プラグイン/テーマ開発 |
+
+#### vendored スキルの優先順位・境界（🔴 必読）
+
+vendored 4件は汎用 Obsidian 向けでトリガーが広い。本リポジトリの規約と衝突しうるため、以下の precedence を厳守する（自動発火しても下記に従って整流する）:
+
+1. **doc 作成・分類・配置・frontmatter は常に `kb-intake` ＋ `schema_reference.md` が優先**。`obsidian-markdown` は Obsidian 固有の**記法メカニクスに限って**使う（callout / embed / math / mermaid / footnote / block-id / highlight / comment）。canonical doc の frontmatter は本リポジトリの必須フィールド＋L0/L1/L2 が正で、`obsidian-markdown/PROPERTIES.md` の汎用 properties モデル（title/tags/aliases/cssclasses 中心）は **canonical doc には適用しない**。
+2. **本文=`[[wikilink]]` / frontmatter `relations`=doc_id の分担は `obsidian-link` が正本**。`obsidian-markdown` のリンク指針より優先。
+3. **`obsidian-cli` は読み取り・検索・backlinks 確認・プラグイン/テーマ開発デバッグ専用**。`create` / `append` / `daily:append` / `property:set` 等で **canonical な KB ノートを作成・改変しない**（その経路は必ず `kb-intake` / `daily-log` ＋ ops 確認ゲートを通す。CLI は schema・doc_id・L0/L1/L2・確認ゲートをすべてバイパスするため）。
+4. **集計ビュー・MOC は Dataview が正本**（`moc_*.md`、`obsidian-link` の MOC_REFRESH）。`obsidian-bases`（`.base`）はオプトインで、`moc_*.md` を置換しない。Bases への移行拡大は ADR で決める。
+5. **`.canvas` / `.base` は doc_id グラフ外の派生物**として扱う。元 md から参照し、`relations.*` / MOC には登録しない（HTML 非同格ガードに準ずる）。配置は関連 md 近傍の `assets/` を基本とする。
+
 ### スキル管理方針
 
 スキルの実体は **`.cursor/skills/<name>/`** に置き、`.claude/skills/<name>` はシンボリックリンクで参照する。

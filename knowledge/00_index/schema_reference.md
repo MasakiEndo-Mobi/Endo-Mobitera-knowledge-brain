@@ -118,6 +118,7 @@ status: enum
 # - decision  : proposed | decided | superseded | archived
 # - task      : proposed | in_progress | blocked | done | cancelled
 # - project   : planning | active | on_hold | completed | cancelled
+# - requirement: draft | approved | implementing | shipped | deprecated
 
 as_of: date
 # ドキュメントの最終更新日 (YYYY-MM-DD形式)
