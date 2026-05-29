@@ -311,6 +311,17 @@ design_phase: concept|detailed|validation|production
 | `skill-improve-loop` | 既存スキルの誤爆・未発火・品質低下を直す改善ループ |
 | `skill-regression-pack` | スキル改善時の回帰パックを作る |
 
+### 外部取り込みスキル（vendored: kepano/obsidian-skills, MIT）
+
+> 出典 https://github.com/kepano/obsidian-skills（Steph Ango / MIT）。upstream のまま保持し、改善ループの対象外。詳細・provenance は `.cursor/skills/_vendor-kepano-obsidian-skills/NOTICE.md`。
+
+| Skill | 用途 |
+|---|---|
+| `obsidian-markdown` | Obsidian Flavored Markdown（wikilink/callout/properties/embed）の作成・編集 |
+| `obsidian-bases` | Obsidian Bases（`.base`：DB ライクなビュー・フィルタ・数式） |
+| `json-canvas` | JSON Canvas（`.canvas`：ノード/エッジ/グループ）の作成・編集 |
+| `obsidian-cli` | Obsidian CLI による Vault 操作・プラグイン/テーマ開発 |
+
 ### スキル管理方針
 
 スキルの実体は **`.cursor/skills/<name>/`** に置き、`.claude/skills/<name>` はシンボリックリンクで参照する。

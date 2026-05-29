@@ -80,7 +80,7 @@ kb-intake で「ev-truck-2027」プロジェクトを作って
 ├─ .vscode/                      ← VS Code 推奨設定
 ├─ .githooks/pre-commit          ← ローカル検証フック
 ├─ .obsidian/                    ← Obsidian Vault 設定 + Templater テンプレ
-├─ .cursor/skills/               ← スキル実体（11個）
+├─ .cursor/skills/               ← スキル実体（自前12 + vendored 4 = 16個）
 ├─ .claude/skills/               ← `.cursor/skills/` への symlink
 ├─ tools/                        ← Python validator + setup script
 └─ knowledge/                    ← KB 本体
