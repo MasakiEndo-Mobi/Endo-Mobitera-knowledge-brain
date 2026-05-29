@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "DRBFMワークシート作成実践編: 効果的な3セクション構成。"
 confidence: medium
 tags: [drbfm, worksheet]
-source_docs: [from_old_kb/03_Resources/R-技術_DRBFM_ワークシート作成.md]
 ---
 
 # DRBFMワークシート作成実践編
@@ -57,17 +56,17 @@ source_docs: [from_old_kb/03_Resources/R-技術_DRBFM_ワークシート作成.m
 
 ---
 ### 関連ノート
-- R-技術_DRBFM_デザインレビュー実施
-- R-技術_DRBFM_実践支援ツール
-- R-技術_DRBFM_教育トレーニング
-- R-技術_DRBFM_概論
-- R-技術_DRBFM_統合実装戦略
-- P-24CY_825D_DR0_DRBFM_review_part1
-- P-24CY_825D_DR0_DRBFM_review_part2
-- P-24CY_825D_DRB_review
-- R-サプライヤ_Markforged
-- R-サプライヤ_UMI
-- R-サプライヤ_ファソテック_AI設計代行調査レポート
-- R-サプライヤ_ホシデンFD
-- R-サプライヤ_中沼アートスクリーン
+- [[drbfm-design-review-facilitation|R-技術_DRBFM_デザインレビュー実施]]
+- [[drbfm-support-tools|R-技術_DRBFM_実践支援ツール]]
+- [[drbfm-training|R-技術_DRBFM_教育トレーニング]]
+- [[drbfm-overview|R-技術_DRBFM_概論]]
+- [[drbfm-implementation-strategy|R-技術_DRBFM_統合実装戦略]]
+- [[2025-09-29_dr0-drbfm-review-part1|P-24CY_825D_DR0_DRBFM_review_part1]]
+- [[2025-09-29_dr0-drbfm-review-part2|P-24CY_825D_DR0_DRBFM_review_part2]]
+- [[2025-09-16_drb-review|P-24CY_825D_DRB_review]]
+- [[markforged-overview|R-サプライヤ_Markforged]]
+- [[umi-overview|R-サプライヤ_UMI]]
+- [[fasotec-ai-design-survey|R-サプライヤ_ファソテック_AI設計代行調査レポート]]
+- [[hoshiden-fd|R-サプライヤ_ホシデンFD]]
+- [[nakanuma-art-screen|R-サプライヤ_中沼アートスクリーン]]
 - MOC_Resources_サプライヤ

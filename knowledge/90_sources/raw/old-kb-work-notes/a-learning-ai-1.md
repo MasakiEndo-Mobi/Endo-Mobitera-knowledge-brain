@@ -10,7 +10,6 @@ as_of: 2025-08-21
 audience: [self]
 one_line_thesis: "以下は、勉強会「AI活用 勉強会（第1回）」の詳細なサマリーです。"
 confidence: low
-source_docs: [from_old_kb/02_Areas/A-Learning_AI勉強会_1回要約.md]
 ---
 
 以下は、勉強会「AI活用 勉強会（第1回）」の詳細なサマリーです。
@@ -155,11 +154,11 @@ source_docs: [from_old_kb/02_Areas/A-Learning_AI勉強会_1回要約.md]
 
 ---
 ### 関連ノート
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_ボンディング試作図面確認_議事録
-- P-24CY_867D_機構DP_議事録
-- A-Work_20251008_業務確認_議事録
-- R-Copilot_議事録作成プロンプト
-- R-Prompt_Copilot_壁打ち業務改善
-- R-Prompt_Copilot_業務改善壁打ち
-- R-Prompt_議事録作成プロンプト
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-07-17_bonding-proto-drawing-review|P-24CY_825D_ボンディング試作図面確認_議事録]]
+- [[p-24cy-867d-dp|P-24CY_867D_機構DP_議事録]]
+- [[a-work-20251008|A-Work_20251008_業務確認_議事録]]
+- [[r-copilot|R-Copilot_議事録作成プロンプト]]
+- [[r-prompt-copilot|R-Prompt_Copilot_壁打ち業務改善]]
+- [[r-prompt-copilot-2|R-Prompt_Copilot_業務改善壁打ち]]
+- [[r-prompt|R-Prompt_議事録作成プロンプト]]

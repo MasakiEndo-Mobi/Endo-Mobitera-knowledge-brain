@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "アンビエント棒照明に関する技術メモ。"
 confidence: medium
 tags: [ambient-lighting, led]
-source_docs: [from_old_kb/03_Resources/R-技術_アンビエント棒照明.md]
 ---
 
 ## 概要
@@ -77,4 +76,4 @@ source_docs: [from_old_kb/03_Resources/R-技術_アンビエント棒照明.md]
 
 ---
 ### 関連ノート
-- R-技術_RGB-LED温度特性
+- [[rgb-led-temperature|R-技術_RGB-LED温度特性]]

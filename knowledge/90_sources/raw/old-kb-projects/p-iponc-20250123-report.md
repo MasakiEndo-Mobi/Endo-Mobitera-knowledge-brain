@@ -10,7 +10,6 @@ as_of: 2025-01-23
 audience: [self]
 one_line_thesis: "IPONC勉強会_20250123 詳細レポート"
 confidence: low
-source_docs: [from_old_kb/01_Projects/P-IPONC_20250123_Report.md]
 ---
 
 # IPONC勉強会_20250123 詳細レポート
@@ -67,10 +66,10 @@ source_docs: [from_old_kb/01_Projects/P-IPONC_20250123_Report.md]
 
 ---
 ### 関連ノート
-- P-IPONC_3回目_スライド原稿（案）
-- P-IPONC_presentation_script
-- P-IPONC_slide_strategy
-- P-IPONC_市原さん発言内容
-- P-IPONC_案16解析レポート
-- R-技術_IPONC_ネジの本質
-- R-技術_Onyx表面平滑化_レポート
+- [[p-iponc-3|P-IPONC_3回目_スライド原稿（案）]]
+- [[p-iponc-presentation-script|P-IPONC_presentation_script]]
+- [[p-iponc-slide-strategy|P-IPONC_slide_strategy]]
+- [[p-iponc|P-IPONC_市原さん発言内容]]
+- [[p-iponc-16|P-IPONC_案16解析レポート]]
+- [[iponc-screw-essence|R-技術_IPONC_ネジの本質]]
+- [[onyx-surface-smoothing-report|R-技術_Onyx表面平滑化_レポート]]

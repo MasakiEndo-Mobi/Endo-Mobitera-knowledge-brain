@@ -10,7 +10,6 @@ as_of: 2025-08-27
 audience: [self]
 one_line_thesis: "えんまさこんにちは！メンター・水野さんとの最強の関係を築くための **完全トリセツ** をお渡しします 🎯"
 confidence: low
-source_docs: [from_old_kb/02_Areas/A-Work_水野さん攻略マニュアル.md]
 ---
 
 えんまさこんにちは！メンター・水野さんとの最強の関係を築くための **完全トリセツ** をお渡しします 🎯

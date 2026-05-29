@@ -10,7 +10,6 @@ as_of: 2025-10-01
 audience: [self]
 one_line_thesis: "10/1から、AIコーチングがスタート。"
 confidence: low
-source_docs: [from_old_kb/02_Areas/A-Learning_AIコーチング.md]
 ---
 
 ## 概要

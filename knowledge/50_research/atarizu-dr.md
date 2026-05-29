@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "当たり図DR: 設計初期に構造/部品配置/干渉/性能を確認するレビュー工程。"
 confidence: medium
 tags: [design-review, dr]
-source_docs: [from_old_kb/03_Resources/R-技術_当たり図DR.md]
 ---
 
 # 当たり図DR (Design Review)
@@ -74,24 +73,24 @@ References
 
 ---
 ### 関連ノート
-- P-21CY_220D
-- P-21CY_450D
-- P-21CY_900B
-- P-24CY_867D
-- P-24CY_867D_機構DP_議事録
-- R-技術_DRBFM_デザインレビュー実施
-- R-技術_DRBFM_ワークシート作成
-- R-技術_DRBFM_実践支援ツール
-- R-技術_DRBFM_教育トレーニング
-- R-技術_DRBFM_概論
-- R-技術_DRBFM_統合実装戦略
-- P-24CY-400D
-- P-24CY_310D
-- P-24CY_410D
-- P-24CY_695D_696D
-- P-24CY_744D
-- P-24CY_744D_summary
-- P-24CY_825D
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_DR0_DRBFM_review_part1
-- P-24CY_825D_DR0_DRBFM_review_part2
+- [[p-21cy-220d|P-21CY_220D]]
+- [[p-21cy-450d|P-21CY_450D]]
+- [[p-21cy-900b|P-21CY_900B]]
+- [[p-24cy-867d|P-24CY_867D]]
+- [[p-24cy-867d-dp|P-24CY_867D_機構DP_議事録]]
+- [[drbfm-design-review-facilitation|R-技術_DRBFM_デザインレビュー実施]]
+- [[drbfm-worksheet-creation|R-技術_DRBFM_ワークシート作成]]
+- [[drbfm-support-tools|R-技術_DRBFM_実践支援ツール]]
+- [[drbfm-training|R-技術_DRBFM_教育トレーニング]]
+- [[drbfm-overview|R-技術_DRBFM_概論]]
+- [[drbfm-implementation-strategy|R-技術_DRBFM_統合実装戦略]]
+- [[p-24cy-400d|P-24CY-400D]]
+- [[p-24cy-310d|P-24CY_310D]]
+- [[p-24cy-410d|P-24CY_410D]]
+- [[p-24cy-695d-696d|P-24CY_695D_696D]]
+- [[p-24cy-744d|P-24CY_744D]]
+- [[p-24cy-744d-summary|P-24CY_744D_summary]]
+- [[825d-overview|P-24CY_825D]]
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-09-29_dr0-drbfm-review-part1|P-24CY_825D_DR0_DRBFM_review_part1]]
+- [[2025-09-29_dr0-drbfm-review-part2|P-24CY_825D_DR0_DRBFM_review_part2]]

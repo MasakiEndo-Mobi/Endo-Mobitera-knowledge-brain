@@ -10,7 +10,6 @@ as_of: 2025-07-18
 audience: [self]
 one_line_thesis: "Gemini ドキュメント整理プロンプト"
 confidence: low
-source_docs: [from_old_kb/03_Resources/R-Gemini_ドキュメント整理プロンプト.md]
 ---
 
 # Gemini ドキュメント整理プロンプト

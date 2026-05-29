@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "電気部品の性能と動作モードの関係を整理し設計・評価の網羅性を確保するマトリクス。"
 confidence: medium
 tags: [Tech, electrical, matrix]
-source_docs: [from_old_kb/03_Resources/R-Tech_電気_性能動作マトリクス.md]
 ---
 
 # 電気_性能動作マトリクス

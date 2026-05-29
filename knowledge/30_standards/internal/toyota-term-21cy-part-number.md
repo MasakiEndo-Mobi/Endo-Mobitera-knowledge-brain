@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "21CY部品品番はプロジェクト識別子+フェーズ識別子+部位コード+個別連番で構成され、Wing-2/NEWMOS検索を効率化する。"
 confidence: medium
 tags: [toyota, terminology, 21cy]
-source_docs: [from_old_kb/03_Resources/R-TOYOTA_用語_21CY部品品番体系.md]
 ---
 
 # 21CY 部品品番体系
@@ -76,24 +75,24 @@ CN‑SL5BN0AJ
 
 ---
 ### 関連ノート
-- P-21CY_220D
-- P-21CY_450D
-- P-21CY_900B
-- R-TOYOTA_用語_24CY内機
-- R-TOYOTA_用語_DR
-- R-TOYOTA_用語_RDDP
-- R-TOYOTA_用語_外設申
-- R-TOYOTA_用語_支給
-- R-TOYOTA_用語_管理自給
-- R-TOYOTA_用語_開発フェーズ
-- R-技術_スリミング_ガラス
-- P-24CY-400D
-- P-24CY_310D
-- P-24CY_410D
-- P-24CY_695D_696D
-- P-24CY_744D
-- P-24CY_744D_summary
-- P-24CY_825D
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_DR0_DRBFM_review_part1
-- P-24CY_825D_DR0_DRBFM_review_part2
+- [[p-21cy-220d|P-21CY_220D]]
+- [[p-21cy-450d|P-21CY_450D]]
+- [[p-21cy-900b|P-21CY_900B]]
+- [[toyota-term-24cy-naiki|R-TOYOTA_用語_24CY内機]]
+- [[toyota-term-dr|R-TOYOTA_用語_DR]]
+- [[toyota-term-rddp|R-TOYOTA_用語_RDDP]]
+- [[toyota-term-gaisetsushin|R-TOYOTA_用語_外設申]]
+- [[toyota-term-shikyu|R-TOYOTA_用語_支給]]
+- [[toyota-term-kanri-jikyu|R-TOYOTA_用語_管理自給]]
+- [[toyota-term-development-phase|R-TOYOTA_用語_開発フェーズ]]
+- [[glass-slimming|R-技術_スリミング_ガラス]]
+- [[p-24cy-400d|P-24CY-400D]]
+- [[p-24cy-310d|P-24CY_310D]]
+- [[p-24cy-410d|P-24CY_410D]]
+- [[p-24cy-695d-696d|P-24CY_695D_696D]]
+- [[p-24cy-744d|P-24CY_744D]]
+- [[p-24cy-744d-summary|P-24CY_744D_summary]]
+- [[825d-overview|P-24CY_825D]]
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-09-29_dr0-drbfm-review-part1|P-24CY_825D_DR0_DRBFM_review_part1]]
+- [[2025-09-29_dr0-drbfm-review-part2|P-24CY_825D_DR0_DRBFM_review_part2]]

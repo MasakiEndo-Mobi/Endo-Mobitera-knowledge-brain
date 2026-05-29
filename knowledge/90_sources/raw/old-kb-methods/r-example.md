@@ -10,7 +10,6 @@ as_of: 2025-08-20
 audience: [self]
 one_line_thesis: "【遠藤・水野】業務確認 議事録"
 confidence: low
-source_docs: [from_old_kb/03_Resources/R-Example_議事録見本.md]
 ---
 
 # 【遠藤・水野】業務確認 議事録
@@ -156,13 +155,13 @@ source_docs: [from_old_kb/03_Resources/R-Example_議事録見本.md]
 
 ---
 ### 関連ノート
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_DR0_DRBFM_review_part1
-- P-24CY_825D_DR0_DRBFM_review_part2
-- P-24CY_825D_DR0_issues_summary
-- P-24CY_825D_DRB_review
-- P-24CY_825D_ボンディング試作図面確認_議事録
-- P-24CY_867D_機構DP_議事録
-- A-Work_20250903_業務確認
-- A-Work_20250917_業務確認
-- A-Work_20251008_業務確認_議事録
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-09-29_dr0-drbfm-review-part1|P-24CY_825D_DR0_DRBFM_review_part1]]
+- [[2025-09-29_dr0-drbfm-review-part2|P-24CY_825D_DR0_DRBFM_review_part2]]
+- [[dr0-issues-summary|P-24CY_825D_DR0_issues_summary]]
+- [[2025-09-16_drb-review|P-24CY_825D_DRB_review]]
+- [[2025-07-17_bonding-proto-drawing-review|P-24CY_825D_ボンディング試作図面確認_議事録]]
+- [[p-24cy-867d-dp|P-24CY_867D_機構DP_議事録]]
+- [[a-work-20250903|A-Work_20250903_業務確認]]
+- [[a-work-20250917|A-Work_20250917_業務確認]]
+- [[a-work-20251008|A-Work_20251008_業務確認_議事録]]

@@ -11,6 +11,5 @@ audience: [self]
 one_line_thesis: "IPONCにおけるネジの本質に関する考察。"
 confidence: medium
 tags: [iponc, screw]
-source_docs: [from_old_kb/03_Resources/R-技術_IPONC_ネジの本質.md]
 ---
 

@@ -10,7 +10,6 @@ as_of: 2025-08-20
 audience: [self]
 one_line_thesis: "2024 IPONC 2係定例会議 議事録"
 confidence: low
-source_docs: [from_old_kb/03_Resources/R-Template_structured_meeting_minutes.md]
 ---
 
 # 2024 IPONC 2係定例会議 議事録
@@ -110,13 +109,13 @@ IPONC勉強会第3回発表準備の進捗確認および関連課題の対応
 
 ---
 ### 関連ノート
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_ボンディング試作図面確認_議事録
-- P-24CY_867D_機構DP_議事録
-- P-IPONC_20250123_Report
-- P-IPONC_3回目_スライド原稿（案）
-- P-IPONC_presentation_script
-- P-IPONC_slide_strategy
-- P-IPONC_市原さん発言内容
-- P-IPONC_案16解析レポート
-- A-Work_20251008_業務確認_議事録
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-07-17_bonding-proto-drawing-review|P-24CY_825D_ボンディング試作図面確認_議事録]]
+- [[p-24cy-867d-dp|P-24CY_867D_機構DP_議事録]]
+- [[p-iponc-20250123-report|P-IPONC_20250123_Report]]
+- [[p-iponc-3|P-IPONC_3回目_スライド原稿（案）]]
+- [[p-iponc-presentation-script|P-IPONC_presentation_script]]
+- [[p-iponc-slide-strategy|P-IPONC_slide_strategy]]
+- [[p-iponc|P-IPONC_市原さん発言内容]]
+- [[p-iponc-16|P-IPONC_案16解析レポート]]
+- [[a-work-20251008|A-Work_20251008_業務確認_議事録]]

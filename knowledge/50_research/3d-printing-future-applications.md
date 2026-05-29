@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "各業界における3Dプリンター活用の将来展望。"
 confidence: medium
 tags: [3d-printer, future-technology]
-source_docs: [from_old_kb/03_Resources/R-技術_3Dプリンター_活用未来.md]
 ---
 
 ### ３D活用の未来
@@ -69,4 +68,4 @@ source_docs: [from_old_kb/03_Resources/R-技術_3Dプリンター_活用未来.m
 
 ---
 ### 関連ノート
-- R-技術_3Dプリンター
+- [[3d-printing-overview|R-技術_3Dプリンター]]

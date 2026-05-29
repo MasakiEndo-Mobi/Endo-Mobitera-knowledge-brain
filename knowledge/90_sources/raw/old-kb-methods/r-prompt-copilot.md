@@ -10,7 +10,6 @@ as_of: 2025-08-25
 audience: [self]
 one_line_thesis: "業務フロー可視化・改善プロンプトシステム（Copilot最適化版）"
 confidence: low
-source_docs: [from_old_kb/03_Resources/R-Prompt_Copilot_壁打ち業務改善.md]
 ---
 
 # 業務フロー可視化・改善プロンプトシステム（Copilot最適化版）
@@ -320,13 +319,13 @@ Q5: この業務で実は重要だが見過ごされがちな要素は？
 
 ---
 ### 関連ノート
-- A-Learning_AIコーチング
-- A-Learning_AI勉強会_1回要約
-- A-Learning_AI勉強会_2回要約
-- A-Learning_OJT_2Q資料_質問一覧
-- A-Learning_OJT研修_資料下書き
-- A-Learning_コーチ・エイ_鈴木会長セミナー
-- R-Copilot_議事録作成プロンプト
-- R-Process_IVI開発プロセスガイド
-- R-Prompt_Copilot_業務改善壁打ち
-- R-Udemy_業務改善
+- [[a-learning-ai|A-Learning_AIコーチング]]
+- [[a-learning-ai-1|A-Learning_AI勉強会_1回要約]]
+- [[a-learning-ai-2|A-Learning_AI勉強会_2回要約]]
+- [[a-learning-ojt-2q|A-Learning_OJT_2Q資料_質問一覧]]
+- [[a-learning-ojt|A-Learning_OJT研修_資料下書き]]
+- [[a-learning|A-Learning_コーチ・エイ_鈴木会長セミナー]]
+- [[r-copilot|R-Copilot_議事録作成プロンプト]]
+- [[ivi-development-process-guide|R-Process_IVI開発プロセスガイド]]
+- [[r-prompt-copilot-2|R-Prompt_Copilot_業務改善壁打ち]]
+- [[r-udemy|R-Udemy_業務改善]]

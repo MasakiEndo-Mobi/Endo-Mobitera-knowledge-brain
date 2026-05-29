@@ -14,7 +14,6 @@ relations:
   related: [ops.meeting.2025-09-29-dr0-drbfm-review-part1, ops.meeting.2025-09-29-dr0-drbfm-review-part2, res.drbfm.overview]
 tags: [825D, DRBFM, DR0]
 design_phase: detailed
-source_docs: [from_old_kb/01_Projects/P-24CY_825D_DR0_issues_summary.md]
 ---
 
 ## L0（1文要約）
@@ -85,13 +84,13 @@ IVI 825DのDRBFM書類の修正点を表形式でまとめます。
 
 ---
 ### 関連ノート
-- P-21CY_220D
-- P-21CY_900B
-- P-24CY-400D
-- P-24CY_825D
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_DR0_DRBFM_review_part1
-- P-24CY_825D_DR0_DRBFM_review_part2
-- P-24CY_825D_DRB_review
-- P-24CY_825D_HiddenSW_meeting_minutes
-- P-24CY_825D_LCD反り問題経緯
+- [[p-21cy-220d|P-21CY_220D]]
+- [[p-21cy-900b|P-21CY_900B]]
+- [[p-24cy-400d|P-24CY-400D]]
+- [[825d-overview|P-24CY_825D]]
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-09-29_dr0-drbfm-review-part1|P-24CY_825D_DR0_DRBFM_review_part1]]
+- [[2025-09-29_dr0-drbfm-review-part2|P-24CY_825D_DR0_DRBFM_review_part2]]
+- [[2025-09-16_drb-review|P-24CY_825D_DRB_review]]
+- [[2025-10-31_hidden-sw-meeting|P-24CY_825D_HiddenSW_meeting_minutes]]
+- [[lcd-warping-issue-history|P-24CY_825D_LCD反り問題経緯]]

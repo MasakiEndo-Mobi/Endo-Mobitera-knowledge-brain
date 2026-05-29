@@ -10,7 +10,6 @@ as_of: 2025-07-08
 audience: [self]
 one_line_thesis: "業務改善説明レポート：Lean Six Sigma とDXによる効率化"
 confidence: low
-source_docs: [from_old_kb/03_Resources/R-業務改善_Lean_Six_Sigma.md]
 ---
 
 # 業務改善説明レポート：Lean Six Sigma とDXによる効率化
@@ -91,17 +90,17 @@ source_docs: [from_old_kb/03_Resources/R-業務改善_Lean_Six_Sigma.md]
 
 ---
 ### 関連ノート
-- R-Udemy_業務改善
-- R-業務改善_月次業務レポート作成プロンプト
-- R-業務改善_概論
-- R-業務改善_進め方概論
-- A-Learning_OJT_2Q資料_質問一覧
+- [[r-udemy|R-Udemy_業務改善]]
+- [[r-2|R-業務改善_月次業務レポート作成プロンプト]]
+- [[r-3|R-業務改善_概論]]
+- [[r-4|R-業務改善_進め方概論]]
+- [[a-learning-ojt-2q|A-Learning_OJT_2Q資料_質問一覧]]
 - R-GEMINI_API_Key
-- R-Tool_SPO_Tool_Box_マニュアル
-- R-サプライヤ_Markforged
-- R-サプライヤ_UMI
-- R-サプライヤ_ファソテック_AI設計代行調査レポート
-- R-サプライヤ_ホシデンFD
-- R-サプライヤ_中沼アートスクリーン
-- R-技術_Onyx表面平滑化_レポート
+- [[r-tool-spo-tool-box-2|R-Tool_SPO_Tool_Box_マニュアル]]
+- [[markforged-overview|R-サプライヤ_Markforged]]
+- [[umi-overview|R-サプライヤ_UMI]]
+- [[fasotec-ai-design-survey|R-サプライヤ_ファソテック_AI設計代行調査レポート]]
+- [[hoshiden-fd|R-サプライヤ_ホシデンFD]]
+- [[nakanuma-art-screen|R-サプライヤ_中沼アートスクリーン]]
+- [[onyx-surface-smoothing-report|R-技術_Onyx表面平滑化_レポート]]
 - MOC_Resources_サプライヤ

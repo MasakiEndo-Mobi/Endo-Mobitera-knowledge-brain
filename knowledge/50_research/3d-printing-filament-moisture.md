@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "3Dプリンターフィラメント各材料の吸水性特徴の比較。"
 confidence: medium
 tags: [3d-printer, filament, material]
-source_docs: [from_old_kb/03_Resources/R-技術_3Dプリンターフィラメント吸水性.md]
 ---
 
 # 3Dプリンターフィラメント吸水性
@@ -62,5 +61,5 @@ source_docs: [from_old_kb/03_Resources/R-技術_3Dプリンターフィラメン
 
 ---
 ### 関連ノート
-- R-技術_3Dプリンター
-- R-技術_3Dプリンター_活用未来
+- [[3d-printing-overview|R-技術_3Dプリンター]]
+- [[3d-printing-future-applications|R-技術_3Dプリンター_活用未来]]

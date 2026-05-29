@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "Onyx製FDM部品を塗装前にRa≤1µmかつ寸法変形なく平滑化する方法のチャットサマリー。"
 confidence: medium
 tags: [onyx, 3d-printer, surface-treatment]
-source_docs: [from_old_kb/03_Resources/R-技術_Onyx表面平滑化_チャットサマリー.md]
 ---
 
 # Onyx表面平滑化チャットサマリー
@@ -60,6 +59,6 @@ source_docs: [from_old_kb/03_Resources/R-技術_Onyx表面平滑化_チャット
 
 ---
 ### 関連ノート
-- R-技術_3Dプリンター
-- R-技術_3Dプリンター_活用未来
-- R-技術_Onyx表面平滑化_レポート
+- [[3d-printing-overview|R-技術_3Dプリンター]]
+- [[3d-printing-future-applications|R-技術_3Dプリンター_活用未来]]
+- [[onyx-surface-smoothing-report|R-技術_Onyx表面平滑化_レポート]]

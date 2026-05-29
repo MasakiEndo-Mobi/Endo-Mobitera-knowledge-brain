@@ -10,7 +10,6 @@ as_of: 2026-01-14
 audience: [self]
 one_line_thesis: "ガラス強度評価法4PB(4点曲げ)とRoR(同心円曲げ)の試験方法と特徴の整理。"
 confidence: medium
-source_docs: [from_old_kb/03_Resources/R-Tech_ガラス強度評価_4PB_RoR.md]
 ---
 
 以下に、**添付仕様書に書かれている内容を踏まえつつ**、Web情報（学術・ガラス強度関連文献） を根拠に、質問をまとめてわかりやすく解説します。 newglass.jp(https://newglass.jp/mag/TITL/maghtml/109-pdf/+109-p051.pdf)
@@ -139,4 +138,4 @@ source_docs: [from_old_kb/03_Resources/R-Tech_ガラス強度評価_4PB_RoR.md]
 
 ---
 ### 関連ノート
-- R-技術_スリミング_ガラス
+- [[glass-slimming|R-技術_スリミング_ガラス]]

@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "環境対応型機能性塗料に関する技術メモ。"
 confidence: medium
 tags: [paint, material, eco-friendly]
-source_docs: [from_old_kb/03_Resources/R-技術_環境対応型機能性塗料.md]
 ---
 
 ## 概要

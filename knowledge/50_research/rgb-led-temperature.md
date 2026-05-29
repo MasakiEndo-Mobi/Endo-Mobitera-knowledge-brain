@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "白色/RGB-LEDで良質な白色光を実現する際の赤色LED温度特性の弱さという課題。"
 confidence: medium
 tags: [led, thermal-property]
-source_docs: [from_old_kb/03_Resources/R-技術_RGB-LED温度特性.md]
 ---
 
 ## 概要

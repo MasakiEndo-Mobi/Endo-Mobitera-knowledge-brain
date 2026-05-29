@@ -10,7 +10,6 @@ as_of: 2025-10-20
 audience: [self]
 one_line_thesis: "以下に、10月20日 17:30～18:00に行われた「T社VC事業部への展示会振り返り」会議の構造化議事録を作成しました。ご確認ください。"
 confidence: low
-source_docs: [from_old_kb/02_Areas/A-Work_VC展示会振り返り.md]
 ---
 
 以下に、10月20日 17:30～18:00に行われた「T社VC事業部への展示会振り返り」会議の構造化議事録を作成しました。ご確認ください。
@@ -104,8 +103,8 @@ source_docs: [from_old_kb/02_Areas/A-Work_VC展示会振り返り.md]
 
 ---
 ### 関連ノート
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_ボンディング試作図面確認_議事録
-- P-24CY_867D_機構DP_議事録
-- A-Work_20251008_業務確認_議事録
-- R-技術_スリミング_ガラス
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-07-17_bonding-proto-drawing-review|P-24CY_825D_ボンディング試作図面確認_議事録]]
+- [[p-24cy-867d-dp|P-24CY_867D_機構DP_議事録]]
+- [[a-work-20251008|A-Work_20251008_業務確認_議事録]]
+- [[glass-slimming|R-技術_スリミング_ガラス]]

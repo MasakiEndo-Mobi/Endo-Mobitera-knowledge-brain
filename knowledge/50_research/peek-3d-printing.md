@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "PEEK(スーパーエンプラ最高峰)のFDM 3Dプリンター活用。"
 confidence: medium
 tags: [peek, 3d-printer, material]
-source_docs: [from_old_kb/03_Resources/R-技術_PEEKと3Dプリンター活用.md]
 ---
 
 # PEEKと3Dプリンター活用
@@ -48,5 +47,5 @@ source_docs: [from_old_kb/03_Resources/R-技術_PEEKと3Dプリンター活用.m
 
 ---
 ### 関連ノート
-- R-技術_3Dプリンター
-- R-技術_3Dプリンター_活用未来
+- [[3d-printing-overview|R-技術_3Dプリンター]]
+- [[3d-printing-future-applications|R-技術_3Dプリンター_活用未来]]

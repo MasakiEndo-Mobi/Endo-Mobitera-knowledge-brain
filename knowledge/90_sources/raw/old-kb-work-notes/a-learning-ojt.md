@@ -10,7 +10,6 @@ as_of: 2025-10-21
 audience: [self]
 one_line_thesis: "以下は、2Q（6–10月）の業務成果発表会スライドのアウトライン案です。実データ・図版の出所は各スライドにnoteリンクで明示できるようにしています。"
 confidence: low
-source_docs: [from_old_kb/02_Areas/A-Learning_OJT研修_資料下書き.md]
 ---
 
 以下は、2Q（6–10月）の業務成果発表会スライドのアウトライン案です。実データ・図版の出所は各スライドにnoteリンクで明示できるようにしています。
@@ -106,13 +105,13 @@ source_docs: [from_old_kb/02_Areas/A-Learning_OJT研修_資料下書き.md]
 
 ---
 ### 関連ノート
-- P-24CY-400D
-- P-24CY_310D
-- P-24CY_410D
-- P-24CY_695D_696D
-- P-24CY_744D
-- P-24CY_744D_summary
-- P-24CY_825D
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_DR0_DRBFM_review_part1
-- P-24CY_825D_DR0_DRBFM_review_part2
+- [[p-24cy-400d|P-24CY-400D]]
+- [[p-24cy-310d|P-24CY_310D]]
+- [[p-24cy-410d|P-24CY_410D]]
+- [[p-24cy-695d-696d|P-24CY_695D_696D]]
+- [[p-24cy-744d|P-24CY_744D]]
+- [[p-24cy-744d-summary|P-24CY_744D_summary]]
+- [[825d-overview|P-24CY_825D]]
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-09-29_dr0-drbfm-review-part1|P-24CY_825D_DR0_DRBFM_review_part1]]
+- [[2025-09-29_dr0-drbfm-review-part2|P-24CY_825D_DR0_DRBFM_review_part2]]

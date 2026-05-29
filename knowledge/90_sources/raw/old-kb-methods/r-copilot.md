@@ -10,7 +10,6 @@ as_of: 2025-08-18
 audience: [self]
 one_line_thesis: "Copilot作成 第一案"
 confidence: low
-source_docs: [from_old_kb/03_Resources/R-Copilot_議事録作成プロンプト.md]
 ---
 
 ## Copilot作成 第一案
@@ -74,13 +73,13 @@ Teams会議のトランスクリプト（話者名・タイムスタンプ付き
 
 ---
 ### 関連ノート
-- P-24CY_825D
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_DR0_DRBFM_review_part1
-- P-24CY_825D_DR0_DRBFM_review_part2
-- P-24CY_825D_DR0_issues_summary
-- P-24CY_825D_DRB_review
-- P-24CY_825D_HiddenSW_meeting_minutes
-- P-24CY_825D_LCD反り問題経緯
-- P-24CY_825D_meeting_minutes
-- P-24CY_825D_structured_meeting_minutes
+- [[825d-overview|P-24CY_825D]]
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-09-29_dr0-drbfm-review-part1|P-24CY_825D_DR0_DRBFM_review_part1]]
+- [[2025-09-29_dr0-drbfm-review-part2|P-24CY_825D_DR0_DRBFM_review_part2]]
+- [[dr0-issues-summary|P-24CY_825D_DR0_issues_summary]]
+- [[2025-09-16_drb-review|P-24CY_825D_DRB_review]]
+- [[2025-10-31_hidden-sw-meeting|P-24CY_825D_HiddenSW_meeting_minutes]]
+- [[lcd-warping-issue-history|P-24CY_825D_LCD反り問題経緯]]
+- [[2025-07-29_kikou-dp-atarizu-dr|P-24CY_825D_meeting_minutes]]
+- [[2025-07-31_project-meeting|P-24CY_825D_structured_meeting_minutes]]

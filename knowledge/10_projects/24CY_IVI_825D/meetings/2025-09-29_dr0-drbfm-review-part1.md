@@ -11,7 +11,6 @@ as_of: 2025-09-29
 audience: [self]
 one_line_thesis: "825D DR0 DRBFMレビュー（2025-09-29）の記録 part1。"
 confidence: medium
-source_docs: [from_old_kb/01_Projects/P-24CY_825D_DR0_DRBFM_review_part1.md]
 ---
 
 **日時:** 2025-09-29 10:00
@@ -1874,7 +1873,7 @@ Sure。
 
 ---
 ### 関連ノート
-- P-21CY_900B
-- P-24CY_825D_DR0_DRBFM_review_part2
-- P-24CY_825D_DR0_issues_summary
-- R-Tool_SPO_Tool_Box_フィードバック
+- [[p-21cy-900b|P-21CY_900B]]
+- [[2025-09-29_dr0-drbfm-review-part2|P-24CY_825D_DR0_DRBFM_review_part2]]
+- [[dr0-issues-summary|P-24CY_825D_DR0_issues_summary]]
+- [[r-tool-spo-tool-box|R-Tool_SPO_Tool_Box_フィードバック]]

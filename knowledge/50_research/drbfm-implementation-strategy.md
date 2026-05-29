@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "DRBFM統合的実装戦略: 段階的実装アプローチ。"
 confidence: medium
 tags: [drbfm, strategy]
-source_docs: [from_old_kb/03_Resources/R-技術_DRBFM_統合実装戦略.md]
 ---
 
 # DRBFM統合的実装戦略
@@ -51,11 +50,11 @@ source_docs: [from_old_kb/03_Resources/R-技術_DRBFM_統合実装戦略.md]
 
 ---
 ### 関連ノート
-- R-技術_DRBFM_デザインレビュー実施
-- R-技術_DRBFM_ワークシート作成
-- R-技術_DRBFM_実践支援ツール
-- R-技術_DRBFM_教育トレーニング
-- R-技術_DRBFM_概論
-- P-24CY_825D_DR0_DRBFM_review_part1
-- P-24CY_825D_DR0_DRBFM_review_part2
-- P-24CY_825D_DRB_review
+- [[drbfm-design-review-facilitation|R-技術_DRBFM_デザインレビュー実施]]
+- [[drbfm-worksheet-creation|R-技術_DRBFM_ワークシート作成]]
+- [[drbfm-support-tools|R-技術_DRBFM_実践支援ツール]]
+- [[drbfm-training|R-技術_DRBFM_教育トレーニング]]
+- [[drbfm-overview|R-技術_DRBFM_概論]]
+- [[2025-09-29_dr0-drbfm-review-part1|P-24CY_825D_DR0_DRBFM_review_part1]]
+- [[2025-09-29_dr0-drbfm-review-part2|P-24CY_825D_DR0_DRBFM_review_part2]]
+- [[2025-09-16_drb-review|P-24CY_825D_DRB_review]]

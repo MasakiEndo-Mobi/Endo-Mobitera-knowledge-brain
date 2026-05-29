@@ -37,11 +37,16 @@
 - `proj.24cy-ivi-825d.design.anti-scatter-film-dexerials`（↔ メーカー検討）
 - `proj.24cy-ivi-825d.design.anti-scatter-film-vendor-study`（↔ デクセリアルズ情報）
 
+### Changed — 再リンク・バイナリ完全保全・from_old_kb 削除
+- **バイナリ完全保全**: 旧KBの全25点を KB 内 `assets/` へ退避（残り9点は `90_sources/raw/old-kb-assets/`）。
+- **画像再リンク**: 全 `(旧KB埋め込み: …)` マーカー（19種）→ `assets/` への markdown 画像/PDFリンクに変換。
+- **wikilink 再リンク**: 各 doc の原本から二重角括弧リンクを再導出し、移行先 doc に解決するものを 119ファイルで復元（解決不能な旧リンクはプレーンテキスト維持＝切れリンク0）。検証: wikilinks 1260 / broken 0。
+- **`source_docs` 除去**: 削除した from_old_kb を指す死参照 136件を除去（provenance は git 履歴・本CHANGELOGに残存）。
+- **`from_old_kb/` 削除**: 移行完了につき削除。取り込み対象外の個人領域ファイルは KB 非格納のため完全消去（git 未追跡で履歴にも残らない）。
+
 ### 未完了（後工程）
 - 825D canonical 6点の人手レビュー（`status: review → canonical`）
 - raw source（90_sources）の意味的再分類・改名・必要分の canonical 昇格
-- wikilink・残り画像埋め込みの再リンク（`obsidian-link`）
-- 残りバイナリ（後の波が参照する画像9点）の取り扱い
 
 ---
 

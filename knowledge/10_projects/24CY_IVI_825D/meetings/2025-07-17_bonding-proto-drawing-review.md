@@ -11,7 +11,6 @@ as_of: 2025-07-17
 audience: [self]
 one_line_thesis: "825D ボンディング試作図面確認 議事録（2025-07-17）。"
 confidence: medium
-source_docs: [from_old_kb/01_Projects/P-24CY_825D_ボンディング試作図面確認_議事録.md]
 ---
 
 # 2025-07-17 825D ボンディング試作図面 確認 議事録
@@ -320,16 +319,16 @@ LCM自体の手配はもうかかっていますよね？ミネベアは50台ぐ
 
 ---
 ### 関連ノート
-- P-24CY_825D
-- P-24CY_825D_解析依頼書
-- P-24CY_867D_機構DP_議事録
-- P-21CY_220D
-- P-21CY_450D
-- P-21CY_900B
-- P-24CY-400D
-- P-24CY_310D
-- P-24CY_410D
-- P-24CY_695D_696D
-- P-24CY_744D
-- P-24CY_744D_summary
-- P-24CY_825D_1SDR_議事録
+- [[825d-overview|P-24CY_825D]]
+- [[analysis-request|P-24CY_825D_解析依頼書]]
+- [[p-24cy-867d-dp|P-24CY_867D_機構DP_議事録]]
+- [[p-21cy-220d|P-21CY_220D]]
+- [[p-21cy-450d|P-21CY_450D]]
+- [[p-21cy-900b|P-21CY_900B]]
+- [[p-24cy-400d|P-24CY-400D]]
+- [[p-24cy-310d|P-24CY_310D]]
+- [[p-24cy-410d|P-24CY_410D]]
+- [[p-24cy-695d-696d|P-24CY_695D_696D]]
+- [[p-24cy-744d|P-24CY_744D]]
+- [[p-24cy-744d-summary|P-24CY_744D_summary]]
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]

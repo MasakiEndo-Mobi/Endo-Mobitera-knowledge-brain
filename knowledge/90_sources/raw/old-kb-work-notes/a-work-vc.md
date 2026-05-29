@@ -10,7 +10,6 @@ as_of: 2025-11-26
 audience: [self]
 one_line_thesis: "■ VC事業部とは"
 confidence: low
-source_docs: [from_old_kb/02_Areas/A-Work_VC展示会_原稿案.md]
 ---
 
 ### 第一案
@@ -128,6 +127,6 @@ source_docs: [from_old_kb/02_Areas/A-Work_VC展示会_原稿案.md]
 ---
 ### 関連ノート
 - P-IVI_template
-- R-技術_3Dプリンター
-- R-技術_3Dプリンター_活用未来
-- R-技術_スリミング_ガラス
+- [[3d-printing-overview|R-技術_3Dプリンター]]
+- [[3d-printing-future-applications|R-技術_3Dプリンター_活用未来]]
+- [[glass-slimming|R-技術_スリミング_ガラス]]

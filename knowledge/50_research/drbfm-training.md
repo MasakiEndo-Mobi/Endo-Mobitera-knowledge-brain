@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "DRBFM教育・トレーニング手法: SAE認定フレームワーク等。"
 confidence: medium
 tags: [drbfm, training]
-source_docs: [from_old_kb/03_Resources/R-技術_DRBFM_教育トレーニング.md]
 ---
 
 # DRBFM教育・トレーニング手法
@@ -45,11 +44,11 @@ source_docs: [from_old_kb/03_Resources/R-技術_DRBFM_教育トレーニング.m
 
 ---
 ### 関連ノート
-- R-技術_DRBFM_デザインレビュー実施
-- R-技術_DRBFM_ワークシート作成
-- R-技術_DRBFM_実践支援ツール
-- R-技術_DRBFM_概論
-- R-技術_DRBFM_統合実装戦略
-- P-24CY_825D_DR0_DRBFM_review_part1
-- P-24CY_825D_DR0_DRBFM_review_part2
-- P-24CY_825D_DRB_review
+- [[drbfm-design-review-facilitation|R-技術_DRBFM_デザインレビュー実施]]
+- [[drbfm-worksheet-creation|R-技術_DRBFM_ワークシート作成]]
+- [[drbfm-support-tools|R-技術_DRBFM_実践支援ツール]]
+- [[drbfm-overview|R-技術_DRBFM_概論]]
+- [[drbfm-implementation-strategy|R-技術_DRBFM_統合実装戦略]]
+- [[2025-09-29_dr0-drbfm-review-part1|P-24CY_825D_DR0_DRBFM_review_part1]]
+- [[2025-09-29_dr0-drbfm-review-part2|P-24CY_825D_DR0_DRBFM_review_part2]]
+- [[2025-09-16_drb-review|P-24CY_825D_DRB_review]]

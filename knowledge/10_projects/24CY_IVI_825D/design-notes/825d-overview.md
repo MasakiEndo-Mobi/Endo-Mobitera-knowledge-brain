@@ -14,14 +14,13 @@ relations:
   related: [ops.project.24cy-ivi-825d, source.projects.p-21cy-220d, proj.24cy-ivi-825d.design.analysis-request]
 tags: [825D, IVI, overview, lexus-tx]
 design_phase: detailed
-source_docs: [from_old_kb/01_Projects/P-24CY_825D.md]
 ---
 
 # 825D
 
 ## L0（1文要約）
 
-**825D は P-21CY_220D の意匠を流用した14インチ北米向け LEXUS TX 用 IVI（AGレス・縦置き）で、遠藤がインフォS異動後に初担当した機種である。**
+**825D は [[p-21cy-220d|P-21CY_220D]] の意匠を流用した14インチ北米向け LEXUS TX 用 IVI（AGレス・縦置き）で、遠藤がインフォS異動後に初担当した機種である。**
 
 ---
 
@@ -463,16 +462,16 @@ _
 - **機構DP＋当たり図DR資料**: パワポ資料、DRBFMシート、設計完成度チェックリスト、設計開発管理表、開発日程、構成図、FMEAシートが必要 
 
 ## 関連ノート (Related Notes)
-- P-24CY_867D
+- [[p-24cy-867d|P-24CY_867D]]
 - P-21CY_220D
-- R-TOYOTA_用語_24CY内機
-- R-TOYOTA_用語_DR
-- R-TOYOTA_用語_RDDP
-- R-TOYOTA_用語_外設申
-- R-TOYOTA_用語_支給
-- R-TOYOTA_用語_管理自給
-- R-TOYOTA_用語_開発フェーズ
-- R-技術_スリミング_ガラス
+- [[toyota-term-24cy-naiki|R-TOYOTA_用語_24CY内機]]
+- [[toyota-term-dr|R-TOYOTA_用語_DR]]
+- [[toyota-term-rddp|R-TOYOTA_用語_RDDP]]
+- [[toyota-term-gaisetsushin|R-TOYOTA_用語_外設申]]
+- [[toyota-term-shikyu|R-TOYOTA_用語_支給]]
+- [[toyota-term-kanri-jikyu|R-TOYOTA_用語_管理自給]]
+- [[toyota-term-development-phase|R-TOYOTA_用語_開発フェーズ]]
+- [[glass-slimming|R-技術_スリミング_ガラス]]
 
 ## データパス (Data Paths)
 - **CADデータ:** `/CATIA/WORK_KIKOU_n/TOYOTA/AVN/W18003A/3D/Kentou/825D/3D/RECV/20250408_TMC_latest_design_data/250404_825D_DISP_HARD_STUDY_toPAS_WKNNZSCAAA7QTTN6XURAAIAECDAgazR6.CATPart`
@@ -480,28 +479,28 @@ _
 
 ---
 ### 関連ノート
-- P-24CY_310D
-- P-24CY_410D
-- P-24CY_695D_696D
-- P-24CY_825D_ボンディング試作図面確認_議事録
-- P-24CY_825D_解析依頼書
-- P-24CY_838D
-- P-24CY_867D_機構DP_議事録
+- [[p-24cy-310d|P-24CY_310D]]
+- [[p-24cy-410d|P-24CY_410D]]
+- [[p-24cy-695d-696d|P-24CY_695D_696D]]
+- [[2025-07-17_bonding-proto-drawing-review|P-24CY_825D_ボンディング試作図面確認_議事録]]
+- [[analysis-request|P-24CY_825D_解析依頼書]]
+- [[p-24cy-838d|P-24CY_838D]]
+- [[p-24cy-867d-dp|P-24CY_867D_機構DP_議事録]]
 - P-IVI_template
-- R-TOYOTA_用語_21CY部品品番体系
-- R-技術_DRBFM_デザインレビュー実施
-- R-技術_DRBFM_ワークシート作成
-- R-技術_DRBFM_実践支援ツール
-- R-技術_DRBFM_教育トレーニング
-- R-技術_DRBFM_概論
-- R-技術_DRBFM_統合実装戦略
-- P-21CY_450D
-- P-21CY_900B
-- P-24CY-400D
-- P-24CY_744D
-- P-24CY_744D_summary
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_DR0_DRBFM_review_part1
-- P-24CY_825D_DR0_DRBFM_review_part2
-- P-24CY_825D_DR0_issues_summary
-- P-24CY_825D_DRB_review
+- [[toyota-term-21cy-part-number|R-TOYOTA_用語_21CY部品品番体系]]
+- [[drbfm-design-review-facilitation|R-技術_DRBFM_デザインレビュー実施]]
+- [[drbfm-worksheet-creation|R-技術_DRBFM_ワークシート作成]]
+- [[drbfm-support-tools|R-技術_DRBFM_実践支援ツール]]
+- [[drbfm-training|R-技術_DRBFM_教育トレーニング]]
+- [[drbfm-overview|R-技術_DRBFM_概論]]
+- [[drbfm-implementation-strategy|R-技術_DRBFM_統合実装戦略]]
+- [[p-21cy-450d|P-21CY_450D]]
+- [[p-21cy-900b|P-21CY_900B]]
+- [[p-24cy-400d|P-24CY-400D]]
+- [[p-24cy-744d|P-24CY_744D]]
+- [[p-24cy-744d-summary|P-24CY_744D_summary]]
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-09-29_dr0-drbfm-review-part1|P-24CY_825D_DR0_DRBFM_review_part1]]
+- [[2025-09-29_dr0-drbfm-review-part2|P-24CY_825D_DR0_DRBFM_review_part2]]
+- [[dr0-issues-summary|P-24CY_825D_DR0_issues_summary]]
+- [[2025-09-16_drb-review|P-24CY_825D_DRB_review]]

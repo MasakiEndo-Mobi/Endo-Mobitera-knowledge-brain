@@ -11,7 +11,6 @@ as_of: 2025-07-31
 audience: [self]
 one_line_thesis: "825D プロジェクト会議 総合議事録（2025-07-30/31, 複数セッション）。"
 confidence: medium
-source_docs: [from_old_kb/01_Projects/P-24CY_825D_structured_meeting_minutes.md]
 ---
 
 # 【825D】プロジェクト会議 総合議事録
@@ -156,13 +155,13 @@ source_docs: [from_old_kb/01_Projects/P-24CY_825D_structured_meeting_minutes.md]
 
 ---
 ### 関連ノート
-- P-21CY_900B
-- P-24CY_825D
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_DR0_DRBFM_review_part1
-- P-24CY_825D_DR0_DRBFM_review_part2
-- P-24CY_825D_DR0_issues_summary
-- P-24CY_825D_DRB_review
-- P-24CY_825D_HiddenSW_meeting_minutes
-- P-24CY_825D_LCD反り問題経緯
-- P-24CY_825D_meeting_minutes
+- [[p-21cy-900b|P-21CY_900B]]
+- [[825d-overview|P-24CY_825D]]
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-09-29_dr0-drbfm-review-part1|P-24CY_825D_DR0_DRBFM_review_part1]]
+- [[2025-09-29_dr0-drbfm-review-part2|P-24CY_825D_DR0_DRBFM_review_part2]]
+- [[dr0-issues-summary|P-24CY_825D_DR0_issues_summary]]
+- [[2025-09-16_drb-review|P-24CY_825D_DRB_review]]
+- [[2025-10-31_hidden-sw-meeting|P-24CY_825D_HiddenSW_meeting_minutes]]
+- [[lcd-warping-issue-history|P-24CY_825D_LCD反り問題経緯]]
+- [[2025-07-29_kikou-dp-atarizu-dr|P-24CY_825D_meeting_minutes]]

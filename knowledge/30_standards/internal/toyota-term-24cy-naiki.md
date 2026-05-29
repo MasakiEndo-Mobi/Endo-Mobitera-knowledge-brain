@@ -11,10 +11,9 @@ audience: [self]
 one_line_thesis: "24CY内機セット仕様書はAVN一体機/別体DisplayでLCD/カバーガラス/タッチパネルを共通化し19ePFv2/v3に適用。"
 confidence: medium
 tags: [toyota, terminology, 24cy]
-source_docs: [from_old_kb/03_Resources/R-TOYOTA_用語_24CY内機.md]
 ---
 
-(旧KB埋め込み: 120_24CY_共通Display内機セット仕様書_Ver6.60_20241213.pdf)
+[120_24CY_共通Display内機セット仕様書_Ver6.60_20241213.pdf](assets/24cy-display-naiki-set-spec-v6-60-20241213.pdf)
 ### 1. イントロ：最重要ポイント (5 分で把握)
 
 - **対象範囲**は 24CY向け「AVN一体機」および「別体Display」の両内機セット。LCD／カバーガラス／タッチパネルを共通化し、19ePFv2・19ePFv3プラットフォームに適用。
@@ -147,25 +146,25 @@ source_docs: [from_old_kb/03_Resources/R-TOYOTA_用語_24CY内機.md]
 
 ---
 ### 関連ノート
-- P-24CY_310D
-- P-24CY_695D_696D
-- P-24CY_825D
-- P-24CY_838D
-- R-TOYOTA_用語_DR
-- R-TOYOTA_用語_RDDP
-- R-TOYOTA_用語_外設申
-- R-TOYOTA_用語_支給
-- R-TOYOTA_用語_管理自給
-- R-TOYOTA_用語_開発フェーズ
-- R-サプライヤ_ホシデンFD
-- R-サプライヤ_中沼アートスクリーン
-- P-24CY-400D
-- P-24CY_410D
-- P-24CY_744D
-- P-24CY_744D_summary
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_DR0_DRBFM_review_part1
-- P-24CY_825D_DR0_DRBFM_review_part2
-- P-24CY_825D_DR0_issues_summary
-- P-24CY_825D_DRB_review
-- P-24CY_825D_HiddenSW_meeting_minutes
+- [[p-24cy-310d|P-24CY_310D]]
+- [[p-24cy-695d-696d|P-24CY_695D_696D]]
+- [[825d-overview|P-24CY_825D]]
+- [[p-24cy-838d|P-24CY_838D]]
+- [[toyota-term-dr|R-TOYOTA_用語_DR]]
+- [[toyota-term-rddp|R-TOYOTA_用語_RDDP]]
+- [[toyota-term-gaisetsushin|R-TOYOTA_用語_外設申]]
+- [[toyota-term-shikyu|R-TOYOTA_用語_支給]]
+- [[toyota-term-kanri-jikyu|R-TOYOTA_用語_管理自給]]
+- [[toyota-term-development-phase|R-TOYOTA_用語_開発フェーズ]]
+- [[hoshiden-fd|R-サプライヤ_ホシデンFD]]
+- [[nakanuma-art-screen|R-サプライヤ_中沼アートスクリーン]]
+- [[p-24cy-400d|P-24CY-400D]]
+- [[p-24cy-410d|P-24CY_410D]]
+- [[p-24cy-744d|P-24CY_744D]]
+- [[p-24cy-744d-summary|P-24CY_744D_summary]]
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-09-29_dr0-drbfm-review-part1|P-24CY_825D_DR0_DRBFM_review_part1]]
+- [[2025-09-29_dr0-drbfm-review-part2|P-24CY_825D_DR0_DRBFM_review_part2]]
+- [[dr0-issues-summary|P-24CY_825D_DR0_issues_summary]]
+- [[2025-09-16_drb-review|P-24CY_825D_DRB_review]]
+- [[2025-10-31_hidden-sw-meeting|P-24CY_825D_HiddenSW_meeting_minutes]]

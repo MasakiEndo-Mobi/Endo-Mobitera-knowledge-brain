@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "透過加飾技術に関する技術メモ。"
 confidence: medium
 tags: [decorative-film, material]
-source_docs: [from_old_kb/03_Resources/R-技術_透過加飾技術.md]
 ---
 
 ## 概要

@@ -10,7 +10,6 @@ as_of: 2025-08-25
 audience: [self]
 one_line_thesis: "IPONC勉強会第3回発表 スライド方針・原稿"
 confidence: low
-source_docs: [from_old_kb/01_Projects/P-IPONC_slide_strategy.md]
 ---
 
 # IPONC勉強会第3回発表 スライド方針・原稿
@@ -193,11 +192,11 @@ IPONCにおける意義として、単純な形状比較から構造最適化へ
 
 ---
 ### 関連ノート
-- P-IPONC_20250123_Report
-- P-IPONC_3回目_スライド原稿（案）
-- P-IPONC_presentation_script
-- P-IPONC_市原さん発言内容
-- P-IPONC_案16解析レポート
-- R-技術_3Dプリンター
-- R-技術_3Dプリンター_活用未来
-- R-技術_IPONC_ネジの本質
+- [[p-iponc-20250123-report|P-IPONC_20250123_Report]]
+- [[p-iponc-3|P-IPONC_3回目_スライド原稿（案）]]
+- [[p-iponc-presentation-script|P-IPONC_presentation_script]]
+- [[p-iponc|P-IPONC_市原さん発言内容]]
+- [[p-iponc-16|P-IPONC_案16解析レポート]]
+- [[3d-printing-overview|R-技術_3Dプリンター]]
+- [[3d-printing-future-applications|R-技術_3Dプリンター_活用未来]]
+- [[iponc-screw-essence|R-技術_IPONC_ネジの本質]]

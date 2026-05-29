@@ -10,7 +10,6 @@ as_of: 2025-08-18
 audience: [self]
 one_line_thesis: "1. イントロダクション"
 confidence: low
-source_docs: [from_old_kb/03_Resources/R-Udemy_業務改善.md]
 ---
 
 ### 1. イントロダクション
@@ -106,7 +105,7 @@ TXには大きく2つの目的があります。
 
 ---
 ### 関連ノート
-- R-業務改善_Lean_Six_Sigma
-- R-業務改善_月次業務レポート作成プロンプト
-- R-業務改善_概論
-- R-業務改善_進め方概論
+- [[r-lean-six-sigma|R-業務改善_Lean_Six_Sigma]]
+- [[r-2|R-業務改善_月次業務レポート作成プロンプト]]
+- [[r-3|R-業務改善_概論]]
+- [[r-4|R-業務改善_進め方概論]]

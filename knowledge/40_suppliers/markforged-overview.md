@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "金属/複合材3Dプリンタ『Digital Forge』を約70か国に供給する米Markforged。2025年4月Nano Dimensionが買収。"
 confidence: medium
 tags: [markforged, 3d-printer, supplier]
-source_docs: [from_old_kb/03_Resources/R-サプライヤ_Markforged.md]
 ---
 
 # Markforged まとめ
@@ -51,9 +50,9 @@ source_docs: [from_old_kb/03_Resources/R-サプライヤ_Markforged.md]
 
 ---
 ### 関連ノート
-- R-サプライヤ_UMI
-- R-サプライヤ_ホシデンFD
-- R-サプライヤ_中沼アートスクリーン
-- R-技術_Markforged_FX10
-- R-サプライヤ_ファソテック_AI設計代行調査レポート
+- [[umi-overview|R-サプライヤ_UMI]]
+- [[hoshiden-fd|R-サプライヤ_ホシデンFD]]
+- [[nakanuma-art-screen|R-サプライヤ_中沼アートスクリーン]]
+- [[markforged-fx10|R-技術_Markforged_FX10]]
+- [[fasotec-ai-design-survey|R-サプライヤ_ファソテック_AI設計代行調査レポート]]
 - MOC_Resources_サプライヤ

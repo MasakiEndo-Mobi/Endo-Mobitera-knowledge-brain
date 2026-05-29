@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "Teams VTTから高品質文字起こしを作る日本語技術会議向けベストプラクティス。"
 confidence: medium
 tags: [teams, transcription, meeting-minutes]
-source_docs: [from_old_kb/03_Resources/R-技術_Teams議事録作成ガイド.md]
 ---
 
 # Teamsトランスクリプト高品質文字起こしガイド
@@ -231,11 +230,11 @@ def process_audio_pipeline(audio_file):
 
 ---
 ### 関連ノート
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_ボンディング試作図面確認_議事録
-- P-24CY_867D_機構DP_議事録
-- P-IPONC_presentation_script
-- A-Work_20251008_業務確認_議事録
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-07-17_bonding-proto-drawing-review|P-24CY_825D_ボンディング試作図面確認_議事録]]
+- [[p-24cy-867d-dp|P-24CY_867D_機構DP_議事録]]
+- [[p-iponc-presentation-script|P-IPONC_presentation_script]]
+- [[a-work-20251008|A-Work_20251008_業務確認_議事録]]
 - R-GEMINI_API_Key
-- R-技術_Onyx表面平滑化_レポート
+- [[onyx-surface-smoothing-report|R-技術_Onyx表面平滑化_レポート]]
 - MOC_Resources_技術用語

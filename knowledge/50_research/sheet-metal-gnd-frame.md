@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "板金部品をGNDフレームとして使う設計のコスト/部品点数削減効果と技術的課題の考察。"
 confidence: medium
 tags: [Tech, GND, frame]
-source_docs: [from_old_kb/03_Resources/R-Tech_板金部品のGNDフレームについて.md]
 ---
 
 # 板金部品のGNDフレームに関する考察

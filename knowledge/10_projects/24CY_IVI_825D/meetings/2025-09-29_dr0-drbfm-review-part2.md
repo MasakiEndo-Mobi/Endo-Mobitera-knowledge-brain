@@ -11,7 +11,6 @@ as_of: 2025-09-29
 audience: [self]
 one_line_thesis: "825D DR0 DRBFMレビュー（2025-09-29）の記録 part2。"
 confidence: medium
-source_docs: [from_old_kb/01_Projects/P-24CY_825D_DR0_DRBFM_review_part2.md]
 ---
 
 **日時:** 2025-09-29 10:00
@@ -1485,13 +1484,13 @@ MMM。
 
 ---
 ### 関連ノート
-- P-24CY-400D
-- P-24CY_310D
-- P-24CY_410D
-- P-24CY_695D_696D
-- P-24CY_744D
-- P-24CY_744D_summary
-- P-24CY_825D
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_DR0_DRBFM_review_part1
-- P-24CY_825D_DR0_issues_summary
+- [[p-24cy-400d|P-24CY-400D]]
+- [[p-24cy-310d|P-24CY_310D]]
+- [[p-24cy-410d|P-24CY_410D]]
+- [[p-24cy-695d-696d|P-24CY_695D_696D]]
+- [[p-24cy-744d|P-24CY_744D]]
+- [[p-24cy-744d-summary|P-24CY_744D_summary]]
+- [[825d-overview|P-24CY_825D]]
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-09-29_dr0-drbfm-review-part1|P-24CY_825D_DR0_DRBFM_review_part1]]
+- [[dr0-issues-summary|P-24CY_825D_DR0_issues_summary]]

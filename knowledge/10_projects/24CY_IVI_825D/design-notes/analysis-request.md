@@ -14,7 +14,6 @@ relations:
   related: [proj.24cy-ivi-825d.design.825d-overview, res.glass.strength-test-4pb-ror]
 tags: [825D, CAE, analysis]
 design_phase: detailed
-source_docs: [from_old_kb/01_Projects/P-24CY_825D_解析依頼書.md]
 ---
 
 # 825D 解析依頼書
@@ -132,24 +131,24 @@ source_docs: [from_old_kb/01_Projects/P-24CY_825D_解析依頼書.md]
 
 ---
 ### 関連ノート
-- P-21CY_220D
-- P-24CY_825D
-- P-24CY_825D_ボンディング試作図面確認_議事録
-- R-TOYOTA_用語_21CY部品品番体系
-- R-TOYOTA_用語_24CY内機
-- R-TOYOTA_用語_DR
-- R-TOYOTA_用語_RDDP
-- R-TOYOTA_用語_外設申
-- R-TOYOTA_用語_支給
-- R-TOYOTA_用語_管理自給
-- R-TOYOTA_用語_開発フェーズ
-- P-21CY_450D
-- P-21CY_900B
-- P-24CY-400D
-- P-24CY_310D
-- P-24CY_410D
-- P-24CY_695D_696D
-- P-24CY_744D
-- P-24CY_744D_summary
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_DR0_DRBFM_review_part1
+- [[p-21cy-220d|P-21CY_220D]]
+- [[825d-overview|P-24CY_825D]]
+- [[2025-07-17_bonding-proto-drawing-review|P-24CY_825D_ボンディング試作図面確認_議事録]]
+- [[toyota-term-21cy-part-number|R-TOYOTA_用語_21CY部品品番体系]]
+- [[toyota-term-24cy-naiki|R-TOYOTA_用語_24CY内機]]
+- [[toyota-term-dr|R-TOYOTA_用語_DR]]
+- [[toyota-term-rddp|R-TOYOTA_用語_RDDP]]
+- [[toyota-term-gaisetsushin|R-TOYOTA_用語_外設申]]
+- [[toyota-term-shikyu|R-TOYOTA_用語_支給]]
+- [[toyota-term-kanri-jikyu|R-TOYOTA_用語_管理自給]]
+- [[toyota-term-development-phase|R-TOYOTA_用語_開発フェーズ]]
+- [[p-21cy-450d|P-21CY_450D]]
+- [[p-21cy-900b|P-21CY_900B]]
+- [[p-24cy-400d|P-24CY-400D]]
+- [[p-24cy-310d|P-24CY_310D]]
+- [[p-24cy-410d|P-24CY_410D]]
+- [[p-24cy-695d-696d|P-24CY_695D_696D]]
+- [[p-24cy-744d|P-24CY_744D]]
+- [[p-24cy-744d-summary|P-24CY_744D_summary]]
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-09-29_dr0-drbfm-review-part1|P-24CY_825D_DR0_DRBFM_review_part1]]

@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "FineX超微細メタルメッシュ: 配線幅≦2µm/透過率89%/シート抵抗2Ω/□の高透過・低抵抗技術。"
 confidence: medium
 tags: [finex, material]
-source_docs: [from_old_kb/03_Resources/R-技術_FineX.md]
 ---
 
 ① **要点箇条書き**

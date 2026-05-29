@@ -10,7 +10,6 @@ as_of: 2025-08-18
 audience: [self]
 one_line_thesis: "市原さん案 統合について"
 confidence: low
-source_docs: [from_old_kb/01_Projects/P-IPONC_市原さん発言内容.md]
 ---
 
 ## 市原さん案 統合について
@@ -28,9 +27,9 @@ IPONCで言えば、パラで動かしていたモノが、ここで融合、気
 
 ---
 ### 関連ノート
-- P-IPONC_20250123_Report
-- P-IPONC_3回目_スライド原稿（案）
-- P-IPONC_presentation_script
-- P-IPONC_slide_strategy
-- P-IPONC_案16解析レポート
-- R-技術_IPONC_ネジの本質
+- [[p-iponc-20250123-report|P-IPONC_20250123_Report]]
+- [[p-iponc-3|P-IPONC_3回目_スライド原稿（案）]]
+- [[p-iponc-presentation-script|P-IPONC_presentation_script]]
+- [[p-iponc-slide-strategy|P-IPONC_slide_strategy]]
+- [[p-iponc-16|P-IPONC_案16解析レポート]]
+- [[iponc-screw-essence|R-技術_IPONC_ネジの本質]]

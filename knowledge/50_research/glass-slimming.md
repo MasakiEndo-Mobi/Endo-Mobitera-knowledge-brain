@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "ガラススリミング(板ガラス薄肉化)の方法と軽量化・曲げ性向上効果。"
 confidence: medium
 tags: [glass-slimming, material]
-source_docs: [from_old_kb/03_Resources/R-技術_スリミング_ガラス.md]
 ---
 
 ### 要点箇条書き

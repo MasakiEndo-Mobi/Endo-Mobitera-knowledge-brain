@@ -10,7 +10,6 @@ as_of: 2025-10-20
 audience: [self]
 one_line_thesis: "以下に、2025年10月20日に実施されたセミナーの内容を、正式な議事録形式でまとめました。欠席者や関係者が内容を正確に把握できるよう、発言内容・会議メモ・追加要素をすべて統合し、"
 confidence: low
-source_docs: [from_old_kb/02_Areas/A-Learning_コーチ・エイ_鈴木会長セミナー.md]
 ---
 
 以下に、2025年10月20日に実施されたセミナーの内容を、正式な議事録形式でまとめました。欠席者や関係者が内容を正確に把握できるよう、発言内容・会議メモ・追加要素をすべて統合し、構造化しています。
@@ -113,8 +112,8 @@ source_docs: [from_old_kb/02_Areas/A-Learning_コーチ・エイ_鈴木会長セ
 
 ---
 ### 関連ノート
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_ボンディング試作図面確認_議事録
-- P-24CY_867D_機構DP_議事録
-- A-Work_20251008_業務確認_議事録
-- R-Tool_SPO_Tool_Box_フィードバック
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-07-17_bonding-proto-drawing-review|P-24CY_825D_ボンディング試作図面確認_議事録]]
+- [[p-24cy-867d-dp|P-24CY_867D_機構DP_議事録]]
+- [[a-work-20251008|A-Work_20251008_業務確認_議事録]]
+- [[r-tool-spo-tool-box|R-Tool_SPO_Tool_Box_フィードバック]]

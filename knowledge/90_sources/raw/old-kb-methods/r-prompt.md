@@ -10,7 +10,6 @@ as_of: 2025-12-07
 audience: [self]
 one_line_thesis: "Task"
 confidence: low
-source_docs: [from_old_kb/03_Resources/R-Prompt_議事録作成プロンプト.md]
 ---
 
 #Task
@@ -70,7 +69,7 @@ Powered by 議事録作成くん
 
 ---
 ### 関連ノート
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_ボンディング試作図面確認_議事録
-- P-24CY_867D_機構DP_議事録
-- A-Work_20251008_業務確認_議事録
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-07-17_bonding-proto-drawing-review|P-24CY_825D_ボンディング試作図面確認_議事録]]
+- [[p-24cy-867d-dp|P-24CY_867D_機構DP_議事録]]
+- [[a-work-20251008|A-Work_20251008_業務確認_議事録]]

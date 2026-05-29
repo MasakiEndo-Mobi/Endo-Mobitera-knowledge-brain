@@ -10,7 +10,6 @@ as_of: 2025-08-18
 audience: [self]
 one_line_thesis: "Copilot参照用見本プロンプト集"
 confidence: low
-source_docs: [from_old_kb/03_Resources/R-プロンプト見本.md]
 ---
 
 # Copilot参照用見本プロンプト集
@@ -423,12 +422,12 @@ Teams会議の自動文字起こしトランスクリプトから、構造化さ
 
 ---
 ### 関連ノート
-- P-24CY_825D_1SDR_議事録
-- P-24CY_825D_ボンディング試作図面確認_議事録
-- P-24CY_867D_機構DP_議事録
-- A-Work_20251008_業務確認_議事録
-- R-Copilot_議事録作成プロンプト
-- R-Prompt_Copilot_壁打ち業務改善
-- R-Prompt_Copilot_業務改善壁打ち
-- R-Prompt_議事録作成プロンプト
-- R-技術_Onyx表面平滑化_レポート
+- [[2025-12-11_1sdr-review|P-24CY_825D_1SDR_議事録]]
+- [[2025-07-17_bonding-proto-drawing-review|P-24CY_825D_ボンディング試作図面確認_議事録]]
+- [[p-24cy-867d-dp|P-24CY_867D_機構DP_議事録]]
+- [[a-work-20251008|A-Work_20251008_業務確認_議事録]]
+- [[r-copilot|R-Copilot_議事録作成プロンプト]]
+- [[r-prompt-copilot|R-Prompt_Copilot_壁打ち業務改善]]
+- [[r-prompt-copilot-2|R-Prompt_Copilot_業務改善壁打ち]]
+- [[r-prompt|R-Prompt_議事録作成プロンプト]]
+- [[onyx-surface-smoothing-report|R-技術_Onyx表面平滑化_レポート]]

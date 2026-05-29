@@ -10,7 +10,6 @@ as_of: 2025-06-27
 audience: [self]
 one_line_thesis: "項目 | 内容 |"
 confidence: low
-source_docs: [from_old_kb/03_Resources/R-OP_試作.md]
 ---
 
 ## 概要
@@ -40,4 +39,4 @@ source_docs: [from_old_kb/03_Resources/R-OP_試作.md]
 
 ---
 ### 関連ノート
-- R-技術_スリミング_ガラス
+- [[glass-slimming|R-技術_スリミング_ガラス]]

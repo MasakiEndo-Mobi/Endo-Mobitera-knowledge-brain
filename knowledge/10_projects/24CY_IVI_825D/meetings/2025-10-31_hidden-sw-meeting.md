@@ -11,7 +11,6 @@ as_of: 2025-10-31
 audience: [self]
 one_line_thesis: "825D Hidden SW 検討会議（2025-10-31）の議事録。"
 confidence: medium
-source_docs: [from_old_kb/01_Projects/P-24CY_825D_HiddenSW_meeting_minutes.md]
 ---
 
 ## 会議概要
@@ -103,5 +102,5 @@ PEからの質問事項（インパネ部隊へのインプットのため）
 
 ---
 ### 関連ノート
-- R-Tool_SPO_Tool_Box_フィードバック
-- R-技術_スリミング_ガラス
+- [[r-tool-spo-tool-box|R-Tool_SPO_Tool_Box_フィードバック]]
+- [[glass-slimming|R-技術_スリミング_ガラス]]

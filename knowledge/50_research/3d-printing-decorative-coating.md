@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "プラスチック(3Dプリント部品)塗装の基礎と手順。"
 confidence: medium
 tags: [3d-printer, painting]
-source_docs: [from_old_kb/03_Resources/R-技術_3Dプリンター加飾塗装.md]
 ---
 
 # プラスチック塗装の基礎と手順

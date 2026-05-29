@@ -10,7 +10,6 @@ as_of: 2026-03-04
 audience: [self]
 one_line_thesis: "🔗 SPO Tool Box"
 confidence: low
-source_docs: [from_old_kb/03_Resources/R-Tool_SPO_Tool_Box_マニュアル.md]
 ---
 
 # 🔗 SPO Tool Box
@@ -280,7 +279,7 @@ PowerPoint等の資料に直接 `Ctrl+V` で貼り付けることができ、モ
 
 ---
 ### 関連ノート
-- P-IPONC_20250123_Report
+- [[p-iponc-20250123-report|P-IPONC_20250123_Report]]
 - R-GEMINI_API_Key
-- R-Tool_SPO_Tool_Box_フィードバック
-- R-Tool_VTT2MD_requirements
+- [[r-tool-spo-tool-box|R-Tool_SPO_Tool_Box_フィードバック]]
+- [[r-tool-vtt2md-requirements|R-Tool_VTT2MD_requirements]]

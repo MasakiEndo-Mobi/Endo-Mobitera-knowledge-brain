@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "CFRTP(炭素繊維強化熱可塑性樹脂)を車載ディスプレイフレームに適用する技術的課題と可能性の調査。"
 confidence: medium
 tags: [Tech, cfrtp, report]
-source_docs: [from_old_kb/03_Resources/R-Tech_cfrtp_車載ディスプレイフレーム_技術調査レポート.md]
 ---
 
 # CFRTP製 車載ディスプレイフレーム 技術調査レポート
@@ -76,5 +75,5 @@ CFRTPは、コストや成形技術の課題を克服できれば、車載ディ
 
 ---
 ### 関連ノート
-- R-技術_Onyx表面平滑化_レポート
-- R-技術_スリミング_ガラス
+- [[onyx-surface-smoothing-report|R-技術_Onyx表面平滑化_レポート]]
+- [[glass-slimming|R-技術_スリミング_ガラス]]

@@ -10,7 +10,6 @@ as_of: 2025-08-18
 audience: [self]
 one_line_thesis: "案16解析レポート"
 confidence: low
-source_docs: [from_old_kb/01_Projects/P-IPONC_案16解析レポート.md]
 ---
 
 # 案16解析レポート
@@ -47,15 +46,15 @@ source_docs: [from_old_kb/01_Projects/P-IPONC_案16解析レポート.md]
 
 以下のグラフは案10と案16の固有値（前後・左右方向）を比較したものです。
 
-(旧KB埋め込み: Pasted image 20250805172141.png|400)
+![Pasted image 20250805172141](../old-kb-assets/pasted-20250805172141.png)
 
 ---
 ### 関連ノート
-- P-IPONC_20250123_Report
-- P-IPONC_3回目_スライド原稿（案）
-- P-IPONC_presentation_script
-- P-IPONC_slide_strategy
-- P-IPONC_市原さん発言内容
-- A-202508_月業務レポート_その1_要約
-- R-技術_IPONC_ネジの本質
-- R-技術_Onyx表面平滑化_レポート
+- [[p-iponc-20250123-report|P-IPONC_20250123_Report]]
+- [[p-iponc-3|P-IPONC_3回目_スライド原稿（案）]]
+- [[p-iponc-presentation-script|P-IPONC_presentation_script]]
+- [[p-iponc-slide-strategy|P-IPONC_slide_strategy]]
+- [[p-iponc|P-IPONC_市原さん発言内容]]
+- [[a-202508-1|A-202508_月業務レポート_その1_要約]]
+- [[iponc-screw-essence|R-技術_IPONC_ネジの本質]]
+- [[onyx-surface-smoothing-report|R-技術_Onyx表面平滑化_レポート]]

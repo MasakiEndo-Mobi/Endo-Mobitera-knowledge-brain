@@ -11,7 +11,6 @@ audience: [self]
 one_line_thesis: "分散型マニュファクチャリング: 小工場/3Dプリンタ拠点を分散し需要地近くで生産する方式。"
 confidence: medium
 tags: [distributed-manufacturing, supply-chain]
-source_docs: [from_old_kb/03_Resources/R-技術_分散マニュファクチャリング.md]
 ---
 
 # 分散型マニュファクチャリング

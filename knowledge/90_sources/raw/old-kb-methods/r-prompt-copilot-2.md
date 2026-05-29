@@ -10,7 +10,6 @@ as_of: 2025-08-25
 audience: [self]
 one_line_thesis: "（時間あれば）Copilot を使って実践！"
 confidence: low
-source_docs: [from_old_kb/03_Resources/R-Prompt_Copilot_業務改善壁打ち.md]
 ---
 
 ### （時間あれば）Copilot を使って実践！
@@ -162,10 +161,10 @@ source_docs: [from_old_kb/03_Resources/R-Prompt_Copilot_業務改善壁打ち.md
 
 ---
 ### 関連ノート
-- R-Copilot_議事録作成プロンプト
-- R-Prompt_Copilot_壁打ち業務改善
-- R-Udemy_業務改善
-- R-業務改善_Lean_Six_Sigma
-- R-業務改善_月次業務レポート作成プロンプト
-- R-業務改善_概論
-- R-業務改善_進め方概論
+- [[r-copilot|R-Copilot_議事録作成プロンプト]]
+- [[r-prompt-copilot|R-Prompt_Copilot_壁打ち業務改善]]
+- [[r-udemy|R-Udemy_業務改善]]
+- [[r-lean-six-sigma|R-業務改善_Lean_Six_Sigma]]
+- [[r-2|R-業務改善_月次業務レポート作成プロンプト]]
+- [[r-3|R-業務改善_概論]]
+- [[r-4|R-業務改善_進め方概論]]
