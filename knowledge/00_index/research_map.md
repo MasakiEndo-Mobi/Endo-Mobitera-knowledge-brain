@@ -98,6 +98,17 @@ confidence: high
 
 ---
 
+## 旧KB raw アーカイブ (90_sources/raw/) — 第2波・第3波
+
+> 第2波・第3波は `doc_type: source` / `layer: raw` で保全。canonical 昇格は使う時に遅延（Index Now, Polish Later）。
+
+- `old-kb-monthly-reports/` — 月次業務レポート 14（2025-04〜2026-03, `source.monthlyreports.*`）
+- `old-kb-work-notes/` — 業務ノート・学習 19（`source.worknotes.*`）
+- `old-kb-methods/` — 手法・プロンプト・ツール資産 24（`source.methods.*`）
+- `old-kb-projects/` — 終了/非現役案件 20（21CY・24CY非現役・IPONC, `source.projects.*`）
+
+---
+
 ## 関連 MOC（動的ビュー）
 
 - [[moc_components]] — 部品カテゴリ別 Dataview ビュー

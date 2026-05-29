@@ -16,10 +16,21 @@
 - **825D 設計メモ (6)** → `10_projects/24CY_IVI_825D/design-notes/`: `proj.24cy-ivi-825d.design.{825d-overview,dr0-issues-summary,lcd-warping-issue-history,analysis-request,anti-scatter-film-dexerials,anti-scatter-film-vendor-study}`
 - **バイナリ保全 (16)** → 各 `assets/`（英語名にサニタイズ、再埋め込みは未実施）: 825D 概要画像2・開発フェーズ図1・24CY内機仕様PDF1・Onyx平滑化図12
 
+### Added — 旧KB取り込み 第2波・第3波（`90_sources/raw/` へ raw ダンプ）
+スコープ=業務関連のみ。全て `doc_type: source` / `layer: raw` / `project: [all]`。title に原ファイル名を保持。slug・one_line_thesis は自動抽出。
+
+- **月次業務レポート 14** → `90_sources/raw/old-kb-monthly-reports/` (`source.monthlyreports.*`): 2025-04〜2026-03
+- **業務ノート・学習 19** → `90_sources/raw/old-kb-work-notes/` (`source.worknotes.*`): 業務確認/日報まとめ/VC展示会/DRB抵抗感/業績目標/2年目研修/AI勉強会/OJT 等
+- **手法・プロンプト資産 24** → `90_sources/raw/old-kb-methods/` (`source.methods.*`): 議事録プロンプト各種/業務改善(Lean Six Sigma等)/Obsidian/Zettelkasten/SPO Tool Box/VTT2MD 等
+- **終了案件 20** → `90_sources/raw/old-kb-projects/` (`source.projects.*`): 21CY(220D/450D/900B)・24CY非現役(310D/400D/410D/695D696D/744D/838D/867D)・IPONC・組立手順書
+
+### 取り込み対象外（from_old_kb に残置）
+個人領域・機密・雛形のため除外: キャリア開発6・A-Career2・第一生命保険・Udemy学習・リクルータマイページ要件・GEMINI_API_Key・GEMINI.md・P-IVI_template
+
 ### 未完了（後工程）
-- L0/L1/L2 への canonical 昇格（現役825D優先）
+- L0/L1/L2 への canonical 昇格（現役825D優先）／一部 raw source の意味的再分類・改名
 - wikilink・画像埋め込みの再リンク（`obsidian-link`）
-- 第2波（月次レポート等）・第3波（終了案件ダンプ）
+- 残りバイナリ（後の波が参照する画像9点）の取り扱い
 
 ---
 
