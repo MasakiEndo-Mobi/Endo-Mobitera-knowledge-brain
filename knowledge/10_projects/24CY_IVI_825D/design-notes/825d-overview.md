@@ -1,14 +1,14 @@
 ---
 doc_id: proj.24cy-ivi-825d.design.825d-overview
-title: "825D 機構設計 概要（旧KB）"
+title: "825D 車両データハブ"
 doc_type: design-note
 project: [24CY_IVI_825D]
 layer: canonical
-role_in_story: context
+role_in_story: routing
 status: canonical
 as_of: 2026-05-29
 audience: [self]
-one_line_thesis: "825D（Lexus TX向け北米IVI）機構設計の旧KB概要メモ（基本情報/品番/搭載車種）。"
+one_line_thesis: "825D（Lexus TX向け北米IVI・220D意匠流用）の車両データと全関連ドキュメントを集約する中心ハブ。"
 confidence: medium
 relations:
   related: [ops.project.24cy-ivi-825d, source.projects.p-21cy-220d, proj.24cy-ivi-825d.design.analysis-request]
@@ -31,6 +31,34 @@ design_phase: detailed
 - **主要サプライヤ**: ガラス=AGC(AGレス) / ボンディング=ミネベアミツミ / 板金=アーバン・樹脂=アーク
 - **マイルストーン**: SE '25/6 → 現図 '25/9 → CV '26/8 → 1A '27/5 → L/O '27/11
 - **体制**: PE 高城 / P 水野 / 遠藤、顧客担当は現在 藤本様（前任: 櫻井様・田中様・津田様より交代）
+
+---
+
+## 📍 825D ドキュメントマップ
+
+### 設計メモ (design-notes)
+- [[dr0-issues-summary|DR0 DRBFM 修正点まとめ]] — DRBFM是正リスト（2025-10 DR0で解消済）
+- [[lcd-warping-issue-history|LCD反り問題 経緯]] — 788D起点・825Dは非発生確認済
+- [[analysis-request|解析依頼書]] — 4項目解析（インパネ衝撃含む・完了）
+- [[anti-scatter-film-dexerials|飛散防止フィルム デクセリアルズ情報]]
+- [[anti-scatter-film-vendor-study|飛散防止フィルム メーカー検討]] — Dexerials決定(0.5mm)
+
+### 議事録 (meetings)
+- [[2025-07-17_bonding-proto-drawing-review|2025-07-17 ボンディング試作図面確認]]
+- [[2025-07-29_kikou-dp-atarizu-dr|2025-07-29 機構DP＋当たり図DR 資料確認]]
+- [[2025-07-31_project-meeting|2025-07-31 プロジェクト会議 総合議事録]]
+- [[2025-08-04_kikou-dp-atarizu-dr-14inch|2025-08-04 14inch 機構DP＋当たり図DR]]
+- [[2025-09-16_drb-review|2025-09-16 DRBレビュー]]
+- [[2025-09-29_dr0-drbfm-review-part1|2025-09-29 DR0 DRBFMレビュー part1]]
+- [[2025-09-29_dr0-drbfm-review-part2|2025-09-29 DR0 DRBFMレビュー part2]]
+- [[2025-10-31_hidden-sw-meeting|2025-10-31 Hidden SW 検討会議]]
+- [[2025-12-11_1sdr-review|2025-12-11 1SDR 議事録]]
+
+### 関連プロジェクト・知見
+- 派生元: [[p-21cy-220d|P-21CY 220D]]（意匠流用元）／関連: [[p-24cy-400d|400D]]（LCD共通・飛散防止フィルム評価流用）
+- 用語: [[toyota-term-24cy-naiki|24CY内機]] / [[toyota-term-development-phase|開発フェーズ]] / [[toyota-term-dr|DR]] / [[toyota-term-rddp|RDDP]]
+- サプライヤ: [[hoshiden-fd|ホシデンFD]]（ボンディング・788D）
+- 技術: [[drbfm-overview|DRBFM概論]] / [[glass-strength-test-4pb-ror|ガラス強度評価4PB/RoR]]
 
 ---
 

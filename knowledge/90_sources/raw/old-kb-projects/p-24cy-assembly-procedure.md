@@ -1,5 +1,5 @@
 ---
-doc_id: source.projects.p-24cy
+doc_id: source.projects.p-24cy-assembly-procedure
 title: "P-24CY_組立手順書"
 doc_type: source
 project: [all]

@@ -1,5 +1,5 @@
 ---
-doc_id: source.worknotes.a-work-2
+doc_id: source.worknotes.mizuno-handling-manual
 title: "A-Work_水野さん攻略マニュアル"
 doc_type: source
 project: [all]

@@ -324,7 +324,7 @@ Q5: この業務で実は重要だが見過ごされがちな要素は？
 - [[a-learning-ai-2|A-Learning_AI勉強会_2回要約]]
 - [[a-learning-ojt-2q|A-Learning_OJT_2Q資料_質問一覧]]
 - [[a-learning-ojt|A-Learning_OJT研修_資料下書き]]
-- [[a-learning|A-Learning_コーチ・エイ_鈴木会長セミナー]]
+- [[coach-a-suzuki-seminar|A-Learning_コーチ・エイ_鈴木会長セミナー]]
 - [[r-copilot|R-Copilot_議事録作成プロンプト]]
 - [[ivi-development-process-guide|R-Process_IVI開発プロセスガイド]]
 - [[r-prompt-copilot-2|R-Prompt_Copilot_業務改善壁打ち]]

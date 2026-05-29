@@ -1,5 +1,5 @@
 ---
-doc_id: source.methods.r-3
+doc_id: source.methods.biz-improvement-overview
 title: "R-業務改善_概論"
 doc_type: source
 project: [all]
@@ -65,6 +65,6 @@ confidence: low
 ### 関連ノート
 - [[r-udemy|R-Udemy_業務改善]]
 - [[r-lean-six-sigma|R-業務改善_Lean_Six_Sigma]]
-- [[r-2|R-業務改善_月次業務レポート作成プロンプト]]
-- [[r-4|R-業務改善_進め方概論]]
+- [[biz-improve-monthly-report-prompt|R-業務改善_月次業務レポート作成プロンプト]]
+- [[biz-improvement-howto|R-業務改善_進め方概論]]
 - [[onyx-surface-smoothing-report|R-技術_Onyx表面平滑化_レポート]]

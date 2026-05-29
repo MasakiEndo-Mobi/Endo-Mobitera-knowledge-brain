@@ -66,10 +66,10 @@ confidence: low
 
 ---
 ### 関連ノート
-- [[p-iponc-3|P-IPONC_3回目_スライド原稿（案）]]
+- [[p-iponc-3rd-slide-draft|P-IPONC_3回目_スライド原稿（案）]]
 - [[p-iponc-presentation-script|P-IPONC_presentation_script]]
 - [[p-iponc-slide-strategy|P-IPONC_slide_strategy]]
-- [[p-iponc|P-IPONC_市原さん発言内容]]
-- [[p-iponc-16|P-IPONC_案16解析レポート]]
+- [[p-iponc-ichihara-statements|P-IPONC_市原さん発言内容]]
+- [[p-iponc-case16-analysis|P-IPONC_案16解析レポート]]
 - [[iponc-screw-essence|R-技術_IPONC_ネジの本質]]
 - [[onyx-surface-smoothing-report|R-技術_Onyx表面平滑化_レポート]]

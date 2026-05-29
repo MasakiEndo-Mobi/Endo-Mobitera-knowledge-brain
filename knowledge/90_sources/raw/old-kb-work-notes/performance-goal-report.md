@@ -1,5 +1,5 @@
 ---
-doc_id: source.worknotes.a-work
+doc_id: source.worknotes.performance-goal-report
 title: "A-Work_業績目標レポート"
 doc_type: source
 project: [all]

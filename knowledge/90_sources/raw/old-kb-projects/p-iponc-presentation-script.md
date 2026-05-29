@@ -243,10 +243,10 @@ confidence: low
 ---
 ### 関連ノート
 - [[p-iponc-20250123-report|P-IPONC_20250123_Report]]
-- [[p-iponc-3|P-IPONC_3回目_スライド原稿（案）]]
+- [[p-iponc-3rd-slide-draft|P-IPONC_3回目_スライド原稿（案）]]
 - [[p-iponc-slide-strategy|P-IPONC_slide_strategy]]
-- [[p-iponc|P-IPONC_市原さん発言内容]]
-- [[p-iponc-16|P-IPONC_案16解析レポート]]
+- [[p-iponc-ichihara-statements|P-IPONC_市原さん発言内容]]
+- [[p-iponc-case16-analysis|P-IPONC_案16解析レポート]]
 - [[3d-printing-overview|R-技術_3Dプリンター]]
 - [[3d-printing-future-applications|R-技術_3Dプリンター_活用未来]]
 - [[iponc-screw-essence|R-技術_IPONC_ネジの本質]]

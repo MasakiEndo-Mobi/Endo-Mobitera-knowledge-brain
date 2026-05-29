@@ -1,5 +1,5 @@
 ---
-doc_id: source.projects.p-iponc
+doc_id: source.projects.p-iponc-ichihara-statements
 title: "P-IPONC_市原さん発言内容"
 doc_type: source
 project: [all]
@@ -28,8 +28,8 @@ IPONCで言えば、パラで動かしていたモノが、ここで融合、気
 ---
 ### 関連ノート
 - [[p-iponc-20250123-report|P-IPONC_20250123_Report]]
-- [[p-iponc-3|P-IPONC_3回目_スライド原稿（案）]]
+- [[p-iponc-3rd-slide-draft|P-IPONC_3回目_スライド原稿（案）]]
 - [[p-iponc-presentation-script|P-IPONC_presentation_script]]
 - [[p-iponc-slide-strategy|P-IPONC_slide_strategy]]
-- [[p-iponc-16|P-IPONC_案16解析レポート]]
+- [[p-iponc-case16-analysis|P-IPONC_案16解析レポート]]
 - [[iponc-screw-essence|R-技術_IPONC_ネジの本質]]

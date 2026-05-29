@@ -1,5 +1,5 @@
 ---
-doc_id: source.methods.r
+doc_id: source.methods.prompt-samples
 title: "R-プロンプト見本"
 doc_type: source
 project: [all]

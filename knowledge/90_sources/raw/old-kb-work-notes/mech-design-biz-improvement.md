@@ -1,5 +1,5 @@
 ---
-doc_id: source.worknotes.a
+doc_id: source.worknotes.mech-design-biz-improvement
 title: "A-機構設計の業務改善"
 doc_type: source
 project: [all]
@@ -138,6 +138,6 @@ AIは、（並の人間よりは）指示を忠実に守り、疲れることな
 ### 関連ノート
 - [[r-udemy|R-Udemy_業務改善]]
 - [[r-lean-six-sigma|R-業務改善_Lean_Six_Sigma]]
-- [[r-2|R-業務改善_月次業務レポート作成プロンプト]]
-- [[r-3|R-業務改善_概論]]
-- [[r-4|R-業務改善_進め方概論]]
+- [[biz-improve-monthly-report-prompt|R-業務改善_月次業務レポート作成プロンプト]]
+- [[biz-improvement-overview|R-業務改善_概論]]
+- [[biz-improvement-howto|R-業務改善_進め方概論]]

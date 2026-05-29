@@ -1,5 +1,5 @@
 ---
-doc_id: source.methods.r-5
+doc_id: source.methods.internal-systems-links
 title: "R-社内システム_リンク集"
 doc_type: source
 project: [all]

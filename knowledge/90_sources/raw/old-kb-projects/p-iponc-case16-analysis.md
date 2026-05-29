@@ -1,5 +1,5 @@
 ---
-doc_id: source.projects.p-iponc-16
+doc_id: source.projects.p-iponc-case16-analysis
 title: "P-IPONC_案16解析レポート"
 doc_type: source
 project: [all]
@@ -51,10 +51,10 @@ confidence: low
 ---
 ### 関連ノート
 - [[p-iponc-20250123-report|P-IPONC_20250123_Report]]
-- [[p-iponc-3|P-IPONC_3回目_スライド原稿（案）]]
+- [[p-iponc-3rd-slide-draft|P-IPONC_3回目_スライド原稿（案）]]
 - [[p-iponc-presentation-script|P-IPONC_presentation_script]]
 - [[p-iponc-slide-strategy|P-IPONC_slide_strategy]]
-- [[p-iponc|P-IPONC_市原さん発言内容]]
+- [[p-iponc-ichihara-statements|P-IPONC_市原さん発言内容]]
 - [[a-202508-1|A-202508_月業務レポート_その1_要約]]
 - [[iponc-screw-essence|R-技術_IPONC_ネジの本質]]
 - [[onyx-surface-smoothing-report|R-技術_Onyx表面平滑化_レポート]]

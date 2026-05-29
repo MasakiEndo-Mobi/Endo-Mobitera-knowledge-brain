@@ -97,7 +97,7 @@ IBMの1,712人の企業ユーザー分析は体系的パターンを明らかに
 - [[a-learning-ai-2|A-Learning_AI勉強会_2回要約]]
 - [[a-learning-ojt-2q|A-Learning_OJT_2Q資料_質問一覧]]
 - [[a-learning-ojt|A-Learning_OJT研修_資料下書き]]
-- [[a-learning|A-Learning_コーチ・エイ_鈴木会長セミナー]]
+- [[coach-a-suzuki-seminar|A-Learning_コーチ・エイ_鈴木会長セミナー]]
 - [[r-copilot|R-Copilot_議事録作成プロンプト]]
 - [[r-one-shot-meeting-minutes-prompt|R-one-shot-meeting-minutes-prompt]]
 - [[r-prompt-copilot|R-Prompt_Copilot_壁打ち業務改善]]

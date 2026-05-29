@@ -1,5 +1,5 @@
 ---
-doc_id: source.worknotes.a-2
+doc_id: source.worknotes.second-year-training
 title: "A-2年目研修"
 doc_type: source
 project: [all]

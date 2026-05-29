@@ -1,5 +1,5 @@
 ---
-doc_id: source.worknotes.a-learning
+doc_id: source.worknotes.coach-a-suzuki-seminar
 title: "A-Learning_コーチ・エイ_鈴木会長セミナー"
 doc_type: source
 project: [all]

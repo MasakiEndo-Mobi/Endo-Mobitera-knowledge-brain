@@ -1,5 +1,5 @@
 ---
-doc_id: source.methods.r-2
+doc_id: source.methods.biz-improve-monthly-report-prompt
 title: "R-業務改善_月次業務レポート作成プロンプト"
 doc_type: source
 project: [all]
@@ -60,6 +60,6 @@ confidence: low
 ### 関連ノート
 - [[r-udemy|R-Udemy_業務改善]]
 - [[r-lean-six-sigma|R-業務改善_Lean_Six_Sigma]]
-- [[r-3|R-業務改善_概論]]
-- [[r-4|R-業務改善_進め方概論]]
+- [[biz-improvement-overview|R-業務改善_概論]]
+- [[biz-improvement-howto|R-業務改善_進め方概論]]
 - [[onyx-surface-smoothing-report|R-技術_Onyx表面平滑化_レポート]]

@@ -91,9 +91,9 @@ confidence: low
 ---
 ### 関連ノート
 - [[r-udemy|R-Udemy_業務改善]]
-- [[r-2|R-業務改善_月次業務レポート作成プロンプト]]
-- [[r-3|R-業務改善_概論]]
-- [[r-4|R-業務改善_進め方概論]]
+- [[biz-improve-monthly-report-prompt|R-業務改善_月次業務レポート作成プロンプト]]
+- [[biz-improvement-overview|R-業務改善_概論]]
+- [[biz-improvement-howto|R-業務改善_進め方概論]]
 - [[a-learning-ojt-2q|A-Learning_OJT_2Q資料_質問一覧]]
 - R-GEMINI_API_Key
 - [[r-tool-spo-tool-box-2|R-Tool_SPO_Tool_Box_マニュアル]]

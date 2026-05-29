@@ -106,6 +106,6 @@ TXには大きく2つの目的があります。
 ---
 ### 関連ノート
 - [[r-lean-six-sigma|R-業務改善_Lean_Six_Sigma]]
-- [[r-2|R-業務改善_月次業務レポート作成プロンプト]]
-- [[r-3|R-業務改善_概論]]
-- [[r-4|R-業務改善_進め方概論]]
+- [[biz-improve-monthly-report-prompt|R-業務改善_月次業務レポート作成プロンプト]]
+- [[biz-improvement-overview|R-業務改善_概論]]
+- [[biz-improvement-howto|R-業務改善_進め方概論]]
