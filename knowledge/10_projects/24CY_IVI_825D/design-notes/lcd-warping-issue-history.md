@@ -3,16 +3,37 @@ doc_id: proj.24cy-ivi-825d.design.lcd-warping-issue-history
 title: "825D LCD反り問題 経緯"
 doc_type: design-note
 project: [24CY_IVI_825D]
-layer: raw
+layer: canonical
 role_in_story: problem
-status: draft
+status: review
 as_of: 2026-03-24
 audience: [self]
 one_line_thesis: "825D LCD反り問題の経緯（788Dホシデン貼合での反り→貼付不可の社内共有を起点とする）。"
 confidence: medium
+relations:
+  related: [supp.hoshiden.bonding-fd, ops.project.24cy-ivi-825d]
+tags: [825D, LCD, warping, bonding]
 design_phase: detailed
 source_docs: [from_old_kb/01_Projects/P-24CY_825D_LCD反り問題経緯.md]
 ---
+
+## L0（1文要約）
+
+**788D（ホシデン貼合）で起きた「LCD反り→貼付不可」を起点に、825D（ミネベア貼合）で同種問題が起きないかを社内資料で確認・整理した経緯であり、因果は未確定箇所を明示している。**
+
+---
+
+## L1（5つの要点）
+
+- **起点（788D）**: 先行20台で反り大により STOP。図面想定0.4mm以内に対し目視1〜2mm程度
+- **工程条件**: 受入後に全数アニール（変色/残留応力対策）、アニール後の貼合で反り発覚。アニール前後どちらが原因かは調査中
+- **測定方法**: 定盤に液晶面を下向き、隙間ゲージで暫定測定（現場運用）
+- **NG内訳（途中）**: 127台中45台確認でNG相当2台（0.9mm/0.6mm）、規格内でも0.5mm前後は念のため回避
+- **825Dへの含意**: ミネベア貼合での再発有無を確認中、結論は未確定
+
+---
+
+## L2（詳細・根拠・構造）
 
 以下は、「788Dで発生したホシデンでのLCD反り起因の貼り付け不可」事象を起点に、「825Dのボンディング（ミネベア）で同様の問題が起きないか」を社内資料（Teams投稿・会議メモ/議事録・関連ドキュメント）で確認した範囲を、過不足なく整理したものです。
 

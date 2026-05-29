@@ -3,16 +3,37 @@ doc_id: proj.24cy-ivi-825d.design.dr0-issues-summary
 title: "825D DR0 DRBFM 修正点まとめ"
 doc_type: design-note
 project: [24CY_IVI_825D]
-layer: raw
+layer: canonical
 role_in_story: problem
-status: draft
+status: review
 as_of: 2025-10-10
 audience: [self]
 one_line_thesis: "825D DR0 DRBFM書類の修正点を表形式でまとめた整理メモ。"
 confidence: medium
+relations:
+  related: [ops.meeting.2025-09-29-dr0-drbfm-review-part1, ops.meeting.2025-09-29-dr0-drbfm-review-part2, res.drbfm.overview]
+tags: [825D, DRBFM, DR0]
 design_phase: detailed
 source_docs: [from_old_kb/01_Projects/P-24CY_825D_DR0_issues_summary.md]
 ---
+
+## L0（1文要約）
+
+**825D DR0 に向けた DRBFM 帳票の修正点（部品名統一・対象判定の是正・心配点の記載漏れ・危険度/特殊特性の追記）を表形式で網羅した是正リストである。**
+
+---
+
+## L1（5つの要点）
+
+- **全体**: 部品名の表記統一（ESC、COVER GLASS、TFT BRACKET 等）
+- **変更点シート**: 対象/対象外の判定ミス是正、BT ANT 図添付、ケーブル長欄の修正
+- **心配点シート**: ESC No.4・リアカバー No.7-9 の記載追加、番号ズレ修正、TFT BKT に 400D 厚み追加
+- **DRBFM共通**: 発生/影響/検出/危険度・特殊特性・作成/調査/承認・担当期限の追記
+- **位置づけ**: DR0（量産試作0次）提出書類の品質是正
+
+---
+
+## L2（詳細・根拠・構造）
 
 IVI 825DのDRBFM書類の修正点を表形式でまとめます。
 

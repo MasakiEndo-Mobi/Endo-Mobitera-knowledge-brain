@@ -3,21 +3,43 @@ doc_id: proj.24cy-ivi-825d.design.825d-overview
 title: "825D 機構設計 概要（旧KB）"
 doc_type: design-note
 project: [24CY_IVI_825D]
-layer: raw
+layer: canonical
 role_in_story: context
-status: draft
+status: review
 as_of: 2025-07-26
 audience: [self]
 one_line_thesis: "825D（Lexus TX向け北米IVI）機構設計の旧KB概要メモ（基本情報/品番/搭載車種）。"
 confidence: medium
+relations:
+  related: [ops.project.24cy-ivi-825d, source.projects.p-21cy-220d, proj.24cy-ivi-825d.design.analysis-request]
+tags: [825D, IVI, overview, lexus-tx]
 design_phase: detailed
 source_docs: [from_old_kb/01_Projects/P-24CY_825D.md]
 ---
 
 # 825D
 
-(旧KB埋め込み: Pasted image 20250729083512.png|300)
-(旧KB埋め込み: Pasted image 20250729083600.png|400)
+## L0（1文要約）
+
+**825D は P-21CY_220D の意匠を流用した14インチ北米向け LEXUS TX 用 IVI（AGレス・縦置き）で、遠藤がインフォS異動後に初担当した機種である。**
+
+---
+
+## L1（5つの要点）
+
+- **製品/車両**: 開発コード M21012A、品番 CK-BLHHN17X(USA)/07X(Canada)、Lexus TX 北米、生産拠点 MX
+- **派生関係**: P-21CY_220D の設計を踏襲（意匠完全流用）、LCD は 400D と共通(14.1inch)
+- **主要サプライヤ**: ガラス=AGC(AGレス) / ボンディング=ミネベアミツミ / 板金=アーバン・樹脂=アーク
+- **マイルストーン**: SE '25/6 → 現図 '25/9 → CV '26/8 → 1A '27/5 → L/O '27/11
+- **体制**: PE 高城 / P 水野 / 遠藤、顧客 櫻井・田中・津田
+
+---
+
+## L2（詳細・根拠・構造）
+
+![825D 外観1](../assets/pasted-20250729083512.png)
+![825D 外観2](../assets/pasted-20250729083600.png)
+
 ## 概要 (Overview)
 | 項目         | 内容                         | 備考            |
 | ---------- | -------------------------- | ------------- |

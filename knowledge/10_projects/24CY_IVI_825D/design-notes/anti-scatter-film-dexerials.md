@@ -3,16 +3,37 @@ doc_id: proj.24cy-ivi-825d.design.anti-scatter-film-dexerials
 title: "825D 飛散防止フィルム デクセリアルズ情報"
 doc_type: design-note
 project: [24CY_IVI_825D]
-layer: raw
+layer: canonical
 role_in_story: context
-status: draft
+status: review
 as_of: 2026-01-14
 audience: [self]
 one_line_thesis: "825D 飛散防止フィルムのデクセリアルズ採用実績・型式情報。"
 confidence: medium
+relations:
+  related: [proj.24cy-ivi-825d.design.anti-scatter-film-vendor-study]
+tags: [825D, anti-scatter-film, dexerials]
 design_phase: detailed
 source_docs: [from_old_kb/01_Projects/P-24CY_825D_飛散防止フィルム_デクセリアルズ情報.md]
 ---
+
+## L0（1文要約）
+
+**2026/1/14 デクセリアルズ面着会議向けに、825D 搭載 飛散防止フィルム（AR100シリーズ）の採用実績・型式・評価観点・材料特性・調達スキームを社内資料から整理した情報サマリーである。**
+
+---
+
+## L1（5つの要点）
+
+- **型式**: AR100-T081V-JD-HD（T社採用決定）、AG付き代替 AR100-T062V-BD-HD、AG有無で価格差ほぼなし
+- **評価観点**: ヘッドフォーム打撃後の破片危害性で判定、400Dは0.5mmオフセットでOK判定
+- **材料特性**: 耐摩耗強・色味やや青(T社確認済)・耐アルカリは要再試験(PAS条件)・薬品跡クライテリア要明確化
+- **調達**: デクセでカット→ミネベア貼付の実績、未カット品→加工メーカーカットの代替スキームも可
+- **位置づけ**: 825Dも400Dクライテリアを踏襲、未被覆領域の破片挙動評価が肝
+
+---
+
+## L2（詳細・根拠・構造）
 
 以下、＜2026/1/14　デクセリアルズ 面着会議＞に向けた、825D搭載用 飛散防止フィルムの最新情報サマリーです。必要な根拠は社内資料・メール・Teamsメッセージから引用しています（行内に注記）。
 

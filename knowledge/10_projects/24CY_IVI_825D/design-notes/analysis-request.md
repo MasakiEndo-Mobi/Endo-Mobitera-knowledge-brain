@@ -3,18 +3,39 @@ doc_id: proj.24cy-ivi-825d.design.analysis-request
 title: "825D 解析依頼書"
 doc_type: design-note
 project: [24CY_IVI_825D]
-layer: raw
+layer: canonical
 role_in_story: execution
-status: draft
+status: review
 as_of: 2025-07-16
 audience: [self]
 one_line_thesis: "825D の構造信頼性を確認するための解析依頼書。"
 confidence: medium
+relations:
+  related: [proj.24cy-ivi-825d.design.825d-overview, res.glass.strength-test-4pb-ror]
+tags: [825D, CAE, analysis]
 design_phase: detailed
 source_docs: [from_old_kb/01_Projects/P-24CY_825D_解析依頼書.md]
 ---
 
 # 825D 解析依頼書
+
+## L0（1文要約）
+
+**220D（900Bのバックカバー替え）ベースの825Dで新規/変更箇所の強度・信頼性を検証するため、4項目（ESC両面テープ/HiddenSW受け/ラトル振動/押込み引張）の解析を依頼する依頼書（納期 2025-07-29）。**
+
+---
+
+## L1（5つの要点）
+
+- **主な変更**: 14.1inch LCD(400D共通) / BTモジュール追加 / リアカバー分割 / ボタン廃止（車両側HiddenSW）
+- **優先順位**: ①ESC両面テープ ②HiddenSW受け形状 ③ラトル振動 ④押込み&引張荷重
+- **ラトル振動**: 24CY初。クリップ完全拘束・オーディオBKT6箇所拘束、インパネ締結状態で実施
+- **前提**: インパネ意匠データは8月上旬入手予定
+- **納期**: 2025-07-29（火）
+
+---
+
+## L2（詳細・根拠・構造）
 
 ## 概要
 

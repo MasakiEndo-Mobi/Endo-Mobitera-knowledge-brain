@@ -27,9 +27,20 @@
 ### 取り込み対象外（from_old_kb に残置）
 個人領域・機密・雛形のため除外: キャリア開発6・A-Career2・第一生命保険・Udemy学習・リクルータマイページ要件・GEMINI_API_Key・GEMINI.md・P-IVI_template
 
+### Changed — 825D 設計メモ 6点を canonical 昇格
+`layer: raw → canonical` / `status: review`（AI生成L0/L1/L2のため人手レビュー待ち）。L0/L1/L2＋relations 付与、825d-overview は画像を `assets/` へ再リンク。
+
+- `proj.24cy-ivi-825d.design.825d-overview`（→ project / 220D / 解析依頼に relations）
+- `proj.24cy-ivi-825d.design.dr0-issues-summary`（→ DR0議事録×2 / DRBFM概論）
+- `proj.24cy-ivi-825d.design.lcd-warping-issue-history`（→ ホシデンFD / project）
+- `proj.24cy-ivi-825d.design.analysis-request`（→ 概要 / ガラス強度評価）
+- `proj.24cy-ivi-825d.design.anti-scatter-film-dexerials`（↔ メーカー検討）
+- `proj.24cy-ivi-825d.design.anti-scatter-film-vendor-study`（↔ デクセリアルズ情報）
+
 ### 未完了（後工程）
-- L0/L1/L2 への canonical 昇格（現役825D優先）／一部 raw source の意味的再分類・改名
-- wikilink・画像埋め込みの再リンク（`obsidian-link`）
+- 825D canonical 6点の人手レビュー（`status: review → canonical`）
+- raw source（90_sources）の意味的再分類・改名・必要分の canonical 昇格
+- wikilink・残り画像埋め込みの再リンク（`obsidian-link`）
 - 残りバイナリ（後の波が参照する画像9点）の取り扱い
 
 ---
