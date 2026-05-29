@@ -50,6 +50,7 @@ DOC_TYPE_ENUM = {
     "source",
     "requirement",
     "grill_session",
+    "discussion",
 }
 
 LAYER_ENUM = {"raw", "canonical"}
@@ -66,7 +67,7 @@ STATUS_BY_TYPE = {
 }
 DEFAULT_STATUS_ENUM = {"draft", "review", "canonical", "archived"}
 
-L012_EXEMPT_TYPES = {"meeting", "daily-log", "index", "project", "decision", "task", "grill_session"}
+L012_EXEMPT_TYPES = {"meeting", "daily-log", "index", "project", "decision", "task", "grill_session", "discussion"}
 SANDBOX_EXEMPT_DIRS = {"inbox", "ideas", "research", "discussions", "grill-sessions"}
 
 
