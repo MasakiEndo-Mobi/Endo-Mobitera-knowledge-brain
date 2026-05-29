@@ -168,7 +168,7 @@ canonical 配置 (10_projects/<project>/design-notes/ など)
 ```yaml
 doc_id: <プレフィックスは用途別。命名規則の詳細は knowledge/00_index/schema_reference.md を参照>
 title: string
-doc_type: index|project|meeting|daily-log|decision|task|design-note|test-report|component-note|standard-note|supplier-note|research|idea|source
+doc_type: index|project|meeting|daily-log|decision|task|design-note|test-report|component-note|standard-note|supplier-note|research|idea|source|requirement|discussion
 project: [<project-slug>]   # 該当プロジェクトのスラッグ。横断知見の場合は [all]
 layer: raw|canonical
 role_in_story: routing|problem|insight|proposal|opportunity|execution|context

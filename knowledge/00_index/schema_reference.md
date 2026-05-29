@@ -62,7 +62,8 @@ doc_type: enum
 # ドキュメントの種別
 # 値: index | project | meeting | daily-log | decision | task |
 #     design-note | test-report | component-note | standard-note |
-#     supplier-note | research | idea | source | requirement | grill_session
+#     supplier-note | research | idea | source | requirement | grill_session |
+#     discussion
 #
 # - index           : ナビゲーション・スキーマ・MOC・用語集
 # - project         : プロジェクト定義（10_projects/<project>/README.md）
@@ -80,6 +81,7 @@ doc_type: enum
 # - source          : 外部ソース・生データ（90_sources/raw/、grill-sessions/）
 # - requirement     : 要件ドキュメント（10_projects/<project>/requirements/ 配下）
 # - grill_session   : requirements-grill のセッション状態（80_sandbox/grill-sessions/、source として扱う）
+# - discussion      : expert-misaki-discussion の議論ログ（80_sandbox/discussions/、raw 層、L0/L1/L2 免除）
 
 project: list[enum]
 # このドキュメントが属するプロジェクト（複数可）
@@ -276,6 +278,7 @@ thinking_status: enum
 - `doc_type: project` — README 構造（マイルストーン等）
 - `doc_type: decision | task` — アクション指向の構造
 - `doc_type: index` — 目次・ナビゲーション
+- `doc_type: discussion` — 議論ログ（raw 層の対話記録）
 - `80_sandbox/{inbox,ideas,research,discussions}/` — 自由形式
 
 ---
@@ -286,6 +289,7 @@ thinking_status: enum
 |---|---|---|
 | canonical | `<topic>.md`（内容を表す名前） | `thermal-strategy.md`, `connector-selection.md` |
 | idea | `<YYYY-MM-DD>_<slug>.md` | `2026-05-28_thermal-hypothesis.md` |
+| discussion | `<YYYY-MM-DD>_<slug>-discussion-log.md` | `2026-05-29_thermal-strategy-discussion-log.md` |
 | source/raw | `<topic>_<YYYYMMDD>.md` | `iso_16750_overview_20260528.md` |
 | sandbox/inbox | `<YYYY-MM-DD>_<slug>.md` | `2026-05-28_bracket-idea.md` |
 | sandbox/drafts | `<YYYY-MM-DD>_<slug>-draft.md` | `2026-05-28_thermal-strategy-draft.md` |
