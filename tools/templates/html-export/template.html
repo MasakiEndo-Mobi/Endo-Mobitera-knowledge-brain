@@ -1,0 +1,125 @@
+<!doctype html>
+<!--
+AI INSTRUCTIONS for html-export skill (ENFORCE STRICTLY):
+
+  1. EXTERNAL RESOURCES FORBIDDEN
+     Do not add <link rel="stylesheet">, <script src="...">, CDN URLs, Google Fonts,
+     or any reference to external hosts. The CSP meta below physically blocks them.
+
+  2. CSS VARIABLES ONLY
+     Do not write raw hex / rgb values in the body. If a new color is required,
+     add a CSS custom property under :root.
+
+  3. CALLOUTS — use 4 classes only:
+       <div class="callout info">     ← informational
+       <div class="callout warn">     ← caution
+       <div class="callout danger">   ← failure / risk
+       <div class="callout success">  ← pass / decided
+
+  4. FILE SIZE LIMIT — 60 KB
+     If the rendered file would exceed 60 KB, split into multiple files
+     (<basename>-1.html, <basename>-2.html, ...) and add cross-links.
+
+  5. STRUCTURE — keep this exact order:
+       <header class="meta">  → metadata + title
+       <p class="lead">       → L0 (one-line thesis)
+       <ul class="l1-grid">   → L1 (five key points)
+       <section class="l2">   → L2 detail sections (any number)
+
+  6. IMAGES
+     SVG: inline directly. Bitmap: convert to data: URI. No external <img src="https://...">.
+
+  7. TONE
+     Calm, technical, trustworthy. Avoid neon colors, marketing fluff, or emoji walls.
+-->
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Security-Policy"
+      content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; font-src data:;">
+<title>{{TITLE}}</title>
+<style>
+:root {
+  --bg:        #fafafa;
+  --fg:        #1c1c1c;
+  --muted:     #555;
+  --accent:    #2c5282;
+  --hairline:  #d4d4d4;
+  --info-bg:   #eff6ff;
+  --info-fg:   #1e40af;
+  --warn-bg:   #fffbeb;
+  --warn-fg:   #92400e;
+  --danger-bg: #fef2f2;
+  --danger-fg: #991b1b;
+  --success-bg:#ecfdf5;
+  --success-fg:#065f46;
+  --code-bg:   #f4f4f4;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0 auto;
+  max-width: 760px;
+  padding: 32px 24px 64px;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: -apple-system, "Hiragino Sans", "Yu Gothic", sans-serif;
+  line-height: 1.65;
+}
+header.meta { border-bottom: 1px solid var(--hairline); margin-bottom: 24px; padding-bottom: 16px; }
+header.meta .eyebrow { font-size: 12px; color: var(--muted); letter-spacing: 0.06em; text-transform: uppercase; }
+header.meta h1 { font-size: 26px; margin: 4px 0 8px; }
+header.meta dl { display: grid; grid-template-columns: max-content 1fr; gap: 4px 16px; font-size: 13px; color: var(--muted); margin: 8px 0 0; }
+header.meta dt { font-weight: 600; }
+header.meta dd { margin: 0; }
+.badge { display: inline-block; padding: 2px 8px; border-radius: 999px; background: var(--info-bg); color: var(--info-fg); font-size: 11px; margin-left: 6px; }
+.lead { font-size: 18px; line-height: 1.55; color: var(--fg); border-left: 3px solid var(--accent); padding-left: 14px; margin: 16px 0 24px; }
+ul.l1-grid { list-style: none; padding: 0; margin: 0 0 32px; display: grid; gap: 8px; }
+ul.l1-grid li { padding: 10px 12px; background: #fff; border: 1px solid var(--hairline); border-radius: 4px; font-size: 14px; }
+ul.l1-grid li b { display: block; font-size: 13px; color: var(--accent); margin-bottom: 2px; }
+section.l2 { margin: 32px 0; }
+section.l2 h2 { font-size: 18px; border-left: 4px solid var(--accent); padding-left: 10px; }
+section.l2 h3 { font-size: 15px; margin-top: 20px; }
+table { border-collapse: collapse; font-size: 13px; margin: 12px 0; width: 100%; }
+th, td { border: 1px solid var(--hairline); padding: 6px 10px; text-align: left; vertical-align: top; }
+th { background: #f2f2f2; }
+.callout { padding: 10px 14px; border-radius: 4px; margin: 12px 0; font-size: 14px; border-left: 4px solid; }
+.callout.info    { background: var(--info-bg);    border-color: var(--info-fg);    color: var(--info-fg); }
+.callout.warn    { background: var(--warn-bg);    border-color: var(--warn-fg);    color: var(--warn-fg); }
+.callout.danger  { background: var(--danger-bg);  border-color: var(--danger-fg);  color: var(--danger-fg); }
+.callout.success { background: var(--success-bg); border-color: var(--success-fg); color: var(--success-fg); }
+pre { background: var(--code-bg); padding: 10px 12px; border-radius: 4px; font-size: 12px; overflow-x: auto; }
+code { background: var(--code-bg); padding: 1px 4px; border-radius: 2px; font-size: 12px; }
+blockquote { border-left: 3px solid var(--hairline); margin: 12px 0; padding: 4px 12px; color: var(--muted); }
+</style>
+</head>
+<body>
+
+<header class="meta">
+  <div class="eyebrow">{{DOC_TYPE}} <span class="badge">{{STATUS}}</span></div>
+  <h1>{{TITLE}}</h1>
+  <dl>
+    <dt>doc_id</dt>     <dd>{{DOC_ID}}</dd>
+    <dt>project</dt>    <dd>{{PROJECT}}</dd>
+    <dt>as_of</dt>      <dd>{{AS_OF}}</dd>
+    <dt>confidence</dt> <dd>{{CONFIDENCE}}</dd>
+  </dl>
+</header>
+
+<p class="lead">{{L0}}</p>
+
+<ul class="l1-grid">
+  <li><b>{{L1_KEY_1}}</b>{{L1_VAL_1}}</li>
+  <li><b>{{L1_KEY_2}}</b>{{L1_VAL_2}}</li>
+  <li><b>{{L1_KEY_3}}</b>{{L1_VAL_3}}</li>
+  <li><b>{{L1_KEY_4}}</b>{{L1_VAL_4}}</li>
+  <li><b>{{L1_KEY_5}}</b>{{L1_VAL_5}}</li>
+</ul>
+
+<section class="l2">
+  <h2>{{L2_HEADING_1}}</h2>
+  {{L2_BODY_1}}
+</section>
+
+</body>
+</html>

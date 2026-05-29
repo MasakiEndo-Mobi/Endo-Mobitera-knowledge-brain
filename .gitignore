@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.env
+.env.local
+
+# conda
+.conda/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/*.log
+.idea/
+*.swp
+*~
+
+# Obsidian (workspace state — keep settings, ignore session state)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Build artifacts
+*.log
+*.tmp
+*.bak
+
+# Private (optional future use)
+private/
+
+# Claude Code session-local settings (per-machine permissions)
+.claude/settings.local.json

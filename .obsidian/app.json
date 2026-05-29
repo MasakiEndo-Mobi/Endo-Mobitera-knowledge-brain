@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "./assets",
+  "newFileLocation": "current",
+  "showLineNumber": true,
+  "strictLineBreaks": false,
+  "promptDelete": true
+}

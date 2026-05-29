@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+# Local pre-commit validator. Runs frontmatter / integrity / wikilink checks.
+# Activate once with:  git config core.hooksPath .githooks
+
+set -e
+
+if ! command -v python >/dev/null 2>&1; then
+  echo "pre-commit: python not found in PATH — skipping validators"
+  exit 0
+fi
+
+# Only run if knowledge/ has staged .md changes
+staged_md=$(git diff --cached --name-only --diff-filter=ACM | grep -E '^knowledge/.*\.md$' || true)
+if [ -z "$staged_md" ]; then
+  exit 0
+fi
+
+echo "pre-commit: validating KB..."
+python tools/validate_frontmatter.py knowledge/
+python tools/validate_integrity.py knowledge/
+python tools/check_obsidian_links.py knowledge/
+
+# Re-link .claude/skills/ symlinks if .cursor/skills/ changed (Windows-safe via setup.ps1 fallback noop)
+if echo "$staged_md" | grep -q "^\.cursor/skills/"; then
+  echo "pre-commit: .cursor/skills changed — run tools/setup.ps1 or tools/setup.sh if .claude/skills symlinks need refresh"
+fi
+
+echo "pre-commit: ok"

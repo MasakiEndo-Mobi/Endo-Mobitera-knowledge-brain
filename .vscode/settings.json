@@ -1,0 +1,32 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": true,
+  "[markdown]": {
+    "editor.trimAutoWhitespace": false,
+    "files.trimTrailingWhitespace": false
+  },
+  "[python]": {
+    "editor.tabSize": 4
+  },
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "*.md": "${capture}.html, ${capture}.docx, ${capture}.pdf"
+  },
+  "search.exclude": {
+    "**/.obsidian/**": true,
+    "**/.git/**": true,
+    "**/__pycache__/**": true
+  },
+  "github.copilot.chat.codeGeneration.instructions": [
+    { "file": "AGENTS.md" },
+    { "file": ".github/copilot-instructions.md" }
+  ],
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "text": "Use conventional commit prefix: project | research | idea | design | test | meta | fix | docs. No emoji. No Co-authored-by line."
+    }
+  ]
+}
