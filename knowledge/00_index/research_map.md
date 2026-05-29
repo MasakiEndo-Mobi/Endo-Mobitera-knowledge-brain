@@ -27,8 +27,10 @@ confidence: high
 | Project | One-Line Thesis | Phase |
 |---|---|---|
 | **24CY_IVI_825D** | 北米向けIVI(21CY 220D母体・Lexus TX)の機構設計。中心ハブ=[[825d-overview]]、文脈/体制=[[project-context]] | development / validation |
+| **ai-dx-enablement** | ローカルLLM＋クラウドAI(GitHub Copilot/NotebookLM等)横断活用で業務効率化・社内展開。定義=`ops.project.ai-dx-enablement` | discovery |
 
 > 825D 個人成果物: [[2026-04-24_ojt-4q-final-report-outline|2年目OJT 4Q最終報告アウトライン]]（`80_sandbox/ideas/`）
+> AI/DX 会議: [[2026-04-24_local-llm-hearing|ローカルLLMヒアリング]] / [[2026-05-27_ai-agent-efficiency|AIエージェント効率化お喋り場]]
 
 ---
 

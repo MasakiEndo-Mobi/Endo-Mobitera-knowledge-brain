@@ -2,7 +2,7 @@
 doc_id: ops.meeting.2026-04-24-local-llm-hearing
 title: 開発本部 ローカルLLM活用事例ヒアリング会議
 doc_type: meeting
-project: [all]
+project: [ai-dx-enablement]
 layer: raw
 role_in_story: context
 status: completed
@@ -13,12 +13,9 @@ attendees: [遠藤 真輝, 中尾 庄作, 越下 裕貴, 小野 大智]
 one_line_thesis: 開発本部のローカルLLM(Qwen/Gemma系・DX Spark・LiteLLM・Dify等)活用事例をヒアリング。機密業務向けローカルLLM継続拡大とMarkdown文化推進を確認。AI/DX横断テーマの種まき会議。
 confidence: medium
 relations:
-  related: [ops.decision.24cy-ivi-825d.ojt-focus-on-825d, ops.task.24cy-ivi-825d.ai-dx-separate-track, res.tooling.spo-path-converter]
+  related: [ops.project.ai-dx-enablement, ops.decision.24cy-ivi-825d.ojt-focus-on-825d, ops.task.24cy-ivi-825d.ai-dx-separate-track, res.tooling.spo-path-converter]
 tags: [ai-dx, local-llm, litellm, obsidian, markdown, hearing]
-thinking_status: developing
 ---
-
-> ⚠️ **仮格納（AI/DXプロジェクト作成待ち）**: 本ファイルは AI/DX 横断テーマの議事録だが、現状 AI/DX 専用プロジェクトが未作成のため `80_sandbox/research/` に暫定配置している。`meta-governance` で AI/DX プロジェクトを正式作成後、`10_projects/<ai-dx>/meetings/` へ物理移動する（doc_id `ops.meeting.2026-04-24-local-llm-hearing` は不変のため relations は維持される）。それまで compile-meeting による decision/task 抽出は保留。
 
 # 開発本部 ローカルLLM活用事例ヒアリング会議
 

@@ -24,8 +24,14 @@
 ### Note — 認証情報は KB 管理外（git除外 `secrets/`）
 Eiger(Markforged) パスワード・LiteLLM(社内AIゲートウェイ) APIキー等は `secrets/credentials.md`（`.gitignore` 済・git履歴に入らない）で一括管理し、`knowledge/` には転記しない方針を確認。
 
-### Added — AI/DXヒアリング議事録（仮格納・プロジェクト化保留）
-- `knowledge/80_sandbox/research/2026-04-24_local-llm-hearing.md` (`ops.meeting.2026-04-24-local-llm-hearing`): 開発本部のローカルLLM活用事例ヒアリング。AI/DX横断テーマのため `80_sandbox/research/` に暫定配置。**TODO: `meta-governance` で AI/DXプロジェクトを正式作成し `10_projects/<ai-dx>/meetings/` へ移動 → compile-meeting でtask抽出**（doc_id不変）。
+### Added — AI/DX イネーブルメント プロジェクト新設（meta-governance）
+横断テーマ「AI活用による業務効率化」を独立プロジェクト化（ローカルLLM＋クラウドAI: GitHub Copilot/NotebookLM/M365 Copilot 等）。
+- `knowledge/10_projects/ai-dx-enablement/` skeleton 作成（最小構成: meetings/daily-logs/decisions/tasks/requirements/assets。design-notes/test-reports は省略）
+- `ops.project.ai-dx-enablement`（README, status: active, phase: discovery, owner: self）
+- `ops.meeting.2026-04-24-local-llm-hearing`: 80_sandbox/research/ から `ai-dx-enablement/meetings/` へ移動・`project: [all]→[ai-dx-enablement]`・仮格納バナー除去
+- `ops.meeting.2026-05-27-ai-agent-efficiency`: 5/27 AIエージェント業務効率化お喋り場（高畠主催・20名）を新規格納
+- **AGENTS.md / research_map.md** のアクティブプロジェクト表に `24CY_IVI_825D`（従来未登録）と `ai-dx-enablement` を登録
+- LiteLLM APIキーは `secrets/`（git管理外）で管理し本議事録には記載しない方針
 - `knowledge/10_projects/24CY_IVI_825D/design-notes/project-context.md` (`proj.24cy-ivi-825d.design.project-context`): 825Dプロジェクト・コンテキスト総括（背景・体制・進捗・課題・日程・体制メンバー表）。`status: review`。HTMLタイムライン→MD変換・重複貼付け除去・壊れリンク(Viva Engage)修正済。体制メンバー表は overview より新しい体制更新（水野→トヨタPE異動・北川PE復帰）を含み、突合が必要。
 
 ### Added — 旧KB(from_old_kb)取り込み 第1波（計画: `sandbox.old-kb-intake-plan`）

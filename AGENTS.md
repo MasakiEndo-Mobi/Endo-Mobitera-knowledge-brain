@@ -19,7 +19,8 @@
 
 | Slug | プロジェクト名 | 概要 | フェーズ |
 |---|---|---|---|
-| _(未登録)_ | _(初回プロジェクト)_ | _(概要)_ | _(planning / design / development / testing / launch / maintenance)_ |
+| `24CY_IVI_825D` | 24CY IVI 825D 機構設計 | 北米仕向 IVI（21CY 220D母体・Lexus TX）の機構設計・図面・試作評価・サプライヤ/顧客調整。KB+AIパイロット適用先 | development |
+| `ai-dx-enablement` | AI/DX イネーブルメント | ローカルLLM＋クラウドAI（GitHub Copilot/NotebookLM/M365 Copilot等）の横断活用でハード設計・工場業務を効率化し社内展開する横断テーマ | discovery |
 
 ---
 
