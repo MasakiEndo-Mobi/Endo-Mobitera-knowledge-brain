@@ -26,7 +26,9 @@ confidence: high
 
 | Project | One-Line Thesis | Phase |
 |---|---|---|
-| _(未登録)_ | _(プロジェクト概要)_ | _(planning / design / ...)_ |
+| **24CY_IVI_825D** | 北米向けIVI(21CY 220D母体・Lexus TX)の機構設計。中心ハブ=[[825d-overview]]、文脈/体制=[[project-context]] | development / validation |
+
+> 825D 個人成果物: [[2026-04-24_ojt-4q-final-report-outline|2年目OJT 4Q最終報告アウトライン]]（`80_sandbox/ideas/`）
 
 ---
 
@@ -94,6 +96,7 @@ confidence: high
 - **照明** (`res.lighting.*`): RGB-LED温度特性 / アンビエント棒照明
 - **電気** (`res.electrical.*`): 板金GNDフレーム / 性能動作マトリクス
 - **材料/その他**: CFRTP車載ディスプレイフレーム / FineXメタルメッシュ / 分散マニュファクチャリング / 当たり図DR / Teams議事録ガイド / Keyence 3DP IP / AIエッセイ / IPONCネジの本質
+- **ツール (`res.tooling.*`)**: [[spo-path-converter|SharePointパス変換君]]（SP/Teamsリンク→階層フォルダリンク変換, C#） / Keyence 3DP IP
 - _(旧KB第1波取り込み・`layer: raw`)_
 
 ---
