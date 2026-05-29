@@ -5,7 +5,7 @@ doc_type: design-note
 project: [24CY_IVI_825D]
 layer: canonical
 role_in_story: problem
-status: review
+status: canonical
 as_of: 2025-10-10
 audience: [self]
 one_line_thesis: "825D DR0 DRBFM書類の修正点を表形式でまとめた整理メモ。"
@@ -18,7 +18,7 @@ design_phase: detailed
 
 ## L0（1文要約）
 
-**825D DR0 に向けた DRBFM 帳票の修正点（部品名統一・対象判定の是正・心配点の記載漏れ・危険度/特殊特性の追記）を表形式で網羅した是正リストである。**
+**825D DR0 に向けた DRBFM 帳票の修正点（部品名統一・対象判定の是正・心配点の記載漏れ・危険度/特殊特性の追記）を表形式で網羅した是正リストであり、DR0 は 2025-10 に実施済みで本リストの指摘は全て解消済みである。**
 
 ---
 
@@ -29,6 +29,7 @@ design_phase: detailed
 - **心配点シート**: ESC No.4・リアカバー No.7-9 の記載追加、番号ズレ修正、TFT BKT に 400D 厚み追加
 - **DRBFM共通**: 発生/影響/検出/危険度・特殊特性・作成/調査/承認・担当期限の追記
 - **位置づけ**: DR0（量産試作0次）提出書類の品質是正
+- **完了状況**: DR0 は 2025-10 実施、本リストの指摘は全て解消済み（クローズ）
 
 ---
 

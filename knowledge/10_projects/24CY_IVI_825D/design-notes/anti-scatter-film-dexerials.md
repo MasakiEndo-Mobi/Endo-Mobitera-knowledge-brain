@@ -5,7 +5,7 @@ doc_type: design-note
 project: [24CY_IVI_825D]
 layer: canonical
 role_in_story: context
-status: review
+status: canonical
 as_of: 2026-01-14
 audience: [self]
 one_line_thesis: "825D 飛散防止フィルムのデクセリアルズ採用実績・型式情報。"
@@ -29,6 +29,7 @@ design_phase: detailed
 - **材料特性**: 耐摩耗強・色味やや青(T社確認済)・耐アルカリは要再試験(PAS条件)・薬品跡クライテリア要明確化
 - **調達**: デクセでカット→ミネベア貼付の実績、未カット品→加工メーカーカットの代替スキームも可
 - **位置づけ**: 825Dも400Dクライテリアを踏襲、未被覆領域の破片挙動評価が肝
+- **採用可否（825D）**: デクセリアルズ飛散防止フィルムの採用可否は、10月目途で実施されるトヨタ CV インパネ衝撃試験の結果次第
 
 ---
 

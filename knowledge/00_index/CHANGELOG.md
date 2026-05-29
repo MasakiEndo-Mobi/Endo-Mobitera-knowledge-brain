@@ -44,8 +44,16 @@
 - **`source_docs` 除去**: 削除した from_old_kb を指す死参照 136件を除去（provenance は git 履歴・本CHANGELOGに残存）。
 - **`from_old_kb/` 削除**: 移行完了につき削除。取り込み対象外の個人領域ファイルは KB 非格納のため完全消去（git 未追跡で履歴にも残らない）。
 
+### Changed — 825D canonical 6点 人手レビュー反映（ENDO, `review → canonical`）
+ENDO レビューにより事実を更新し全6点を `status: canonical` に確定:
+- **825d-overview**: 搭載車種=Lexus TX 確定、仕向け=北米(米・加)、顧客担当を現:藤本様（前任 櫻井/田中/津田より交代）に更新、目標欄 LX 誤記を TX に修正
+- **dr0-issues-summary**: DR0 は 2025-10 実施済み・指摘は全て解消済み（クローズ）
+- **lcd-warping-issue-history**: 825D（ミネベアミツミ）では反り未発生・確認済み／788D は調査継続・天馬液晶ウォッチ要
+- **analysis-request**: 依頼解析（インパネ衝撃含む）は全て完了済み
+- **anti-scatter-film-dexerials**: 採用可否は 10月目途のトヨタ CV インパネ衝撃試験次第
+- **anti-scatter-film-vendor-study**: フィルムは Dexerials 決定(0.5mmオフセット)、400D評価が全OK・825Dは400D評価で使用可否判断
+
 ### 未完了（後工程）
-- 825D canonical 6点の人手レビュー（`status: review → canonical`）
 - raw source（90_sources）の意味的再分類・改名・必要分の canonical 昇格
 
 ---

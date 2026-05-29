@@ -5,8 +5,8 @@ doc_type: design-note
 project: [24CY_IVI_825D]
 layer: canonical
 role_in_story: context
-status: review
-as_of: 2025-07-26
+status: canonical
+as_of: 2026-05-29
 audience: [self]
 one_line_thesis: "825D（Lexus TX向け北米IVI）機構設計の旧KB概要メモ（基本情報/品番/搭載車種）。"
 confidence: medium
@@ -30,7 +30,7 @@ design_phase: detailed
 - **派生関係**: P-21CY_220D の設計を踏襲（意匠完全流用）、LCD は 400D と共通(14.1inch)
 - **主要サプライヤ**: ガラス=AGC(AGレス) / ボンディング=ミネベアミツミ / 板金=アーバン・樹脂=アーク
 - **マイルストーン**: SE '25/6 → 現図 '25/9 → CV '26/8 → 1A '27/5 → L/O '27/11
-- **体制**: PE 高城 / P 水野 / 遠藤、顧客 櫻井・田中・津田
+- **体制**: PE 高城 / P 水野 / 遠藤、顧客担当は現在 藤本様（前任: 櫻井様・田中様・津田様より交代）
 
 ---
 
@@ -48,13 +48,13 @@ design_phase: detailed
 | サイクル年 (CY) | 24CY                       |               |
 | **車両情報**   |                            |               |
 | 搭載車種       | Lexus TX                   |               |
-| 仕向け地       | 北米                         |               |
+| 仕向け地       | 北米（米国・カナダ）         |               |
 | **HW仕様**   |                            |               |
 | Displayサイズ | 14                         | AGレス          |
 | SoC        |                            |               |
 | 内機タイプ      | 縦置き                        |               |
 | **担当情報**   |                            |               |
-| 顧客担当       | 櫻井様、田中様、津田様                |               |
+| 顧客担当       | 現:藤本様（前任:櫻井様・田中様・津田様）    | 2026-05時点で交代 |
 | 社内担当 (機構)  | PE：高城さん、P: 水野さん、遠藤         |               |
 | 社内担当 (電気)  |                            |               |
 | 社内担当 (ソフト) |                            |               |
@@ -66,7 +66,7 @@ design_phase: detailed
 | 後継機種       |                            |               |
 
 ## プロジェクト目標 (Project Goals)
-- 14インチ IVI。LEXUS LX（日本＋北米）
+- 14インチ IVI。LEXUS TX（北米）
 - えんどうがインフォS IVI異動後、初めての担当機種。
 - 既存機種、P-21CY_220Dの設計を踏襲。
 - 

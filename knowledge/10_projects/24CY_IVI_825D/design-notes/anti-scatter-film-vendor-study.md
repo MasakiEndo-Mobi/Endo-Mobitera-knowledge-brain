@@ -5,10 +5,10 @@ doc_type: design-note
 project: [24CY_IVI_825D]
 layer: canonical
 role_in_story: proposal
-status: review
-as_of: 2026-01-15
+status: canonical
+as_of: 2026-05-29
 audience: [self]
-one_line_thesis: "825D 飛散防止フィルムの貼合メーカー検討（一次候補:日昌）。"
+one_line_thesis: "825D 飛散防止フィルムはDexerialsで決定(オフセット0.5mm)。400D評価が全てOK、825Dは400D評価をもって使用可否を判断。"
 confidence: medium
 relations:
   related: [proj.24cy-ivi-825d.design.anti-scatter-film-dexerials]
@@ -18,14 +18,17 @@ design_phase: detailed
 
 ## L0（1文要約）
 
-**825D 飛散防止フィルムの貼合メーカー（一次候補:日昌）とフィルムメーカー（Dexerials中心/Nitto候補）の選定状況・オフセット制約・スケジュール・コストを整理した検討メモである（要確認事項を明示）。**
+**825D 飛散防止フィルムは Dexerials で決定済み（オフセット 0.5mm）。同フィルムを使う 400D の評価が全て OK となり、825D は 400D のフィルム評価をもって使用可否を判断する。本メモは決定に至るまでの貼合/フィルムメーカー検討記録（当時の要確認事項を含む）。**
+
+> 📌 レビュー反映（2026-05, ENDO）: フィルムは Dexerials 決定・オフセット 0.5mm 運用。400D 評価が全て OK。以下 L2 は決定前の検討時点（〜2026-01）の記録。
 
 ---
 
 ## L1（5つの要点）
 
 - **貼合候補**: 日昌（ゼロオフセット貼合・精度 0.05±0.05 の実績/提案）
-- **フィルム**: Dexerials AR100（AG無 T081V / AG有 T062V）中心、Nitto も候補でコスト同等
+- **フィルム決定**: Dexerials AR100 で決定（検討時は Nitto も候補・コスト同等）。オフセットは 0.5mm 運用
+- **使用可否判断**: 400D（同 Dexerials フィルム）の評価が全て OK。825D は 400D 評価をもって使用可否を判断
 - **オフセット制約**: ミネベアは 0.5mm 可 / 0mm 不可、オートクレーブがキャパのボトルネック懸念
 - **スケジュール**: 浜松工場ガラス納入リミット 5/14-15 目安、AG有は LT 延長
 - **流用**: 400D の評価資産（IP衝撃OK判定・AG有無/オフセット別メニュー）を活用可

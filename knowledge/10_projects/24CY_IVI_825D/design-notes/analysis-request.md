@@ -5,7 +5,7 @@ doc_type: design-note
 project: [24CY_IVI_825D]
 layer: canonical
 role_in_story: execution
-status: review
+status: canonical
 as_of: 2025-07-16
 audience: [self]
 one_line_thesis: "825D の構造信頼性を確認するための解析依頼書。"
@@ -31,6 +31,7 @@ design_phase: detailed
 - **ラトル振動**: 24CY初。クリップ完全拘束・オーディオBKT6箇所拘束、インパネ締結状態で実施
 - **前提**: インパネ意匠データは8月上旬入手予定
 - **納期**: 2025-07-29（火）
+- **完了状況**: 本依頼書の解析項目（インパネ衝撃含む）は全て実施完了済み
 
 ---
 
