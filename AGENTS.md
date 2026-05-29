@@ -304,6 +304,7 @@ design_phase: concept|detailed|validation|production
 | `daily-log` | 日報メモを `10_projects/<project>/daily-logs/YYYY-MM-DD.md` として構造化 |
 | `obsidian-link` | doc_id ↔ `[[wikilink]]` の双方向変換、切れリンク検出、MOC 自動生成 |
 | `knowledge-rally` | ナレッジを参照しながら壁打ち・理解深化ラリーを行う |
+| `expert-misaki-discussion` | 動的選定した専門家2人＋ギャル(みさき)による 5 ターン議論（発散→収束）で成果物の質を上げ、議論ログを別ファイルで残す。「議論して」「ブレストして」等で起動 |
 | `html-export` | Markdown を単一 HTML（外部リソース依存ゼロ）に変換 |
 | `requirements-grill` | Vision / Outcome / Capability / Feature / Eval / EngSpec の 6 層を 1 問ずつ grill して `10_projects/<project>/requirements/` に書き出す |
 | `meta-governance` | AGENTS.md / rules / hooks / skills / CI を変更するときに使う |
