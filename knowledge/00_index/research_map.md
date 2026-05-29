@@ -69,19 +69,43 @@ confidence: high
 - _(未登録)_
 
 ### 社内基準
-- _(未登録)_
+- **TOYOTA用語集** (`std.internal.toyota-term-*`): DR / RDDP / 外設申 / 支給 / 管理自給 / 開発フェーズ / 21CY部品品番体系 / 24CY内機
+- **IVI開発プロセスガイド** (`std.internal.ivi-development-process`)
+- _(旧KB第1波取り込み・`layer: raw`)_
 
 ---
 
 ## サプライヤー (40_suppliers/)
 
-- _(未登録)_
+- **Markforged** (`supp.markforged.overview`) — 金属/複合材3Dプリンタ Digital Forge
+- **UMI** (`supp.umi.overview`) — 微細加工専業
+- **ホシデンFD** (`supp.hoshiden.bonding-fd`) — ボンディングメーカー（825D採用検討）
+- **中沼アートスクリーン** (`supp.nakanuma.art-screen`) — 透過加飾「ガラリット」
+- **ファソテック** (`supp.fasotec.ai-design-survey`) — AI設計代行調査
 
 ---
 
 ## 技術リサーチ (50_research/)
 
-- _(未登録)_
+- **DRBFM** (`res.drbfm.*`): 概論 / ワークシート作成 / DR実施 / 教育 / 実践支援ツール / 統合実装戦略
+- **3Dプリンティング** (`res.3d-printing.*`): 概要 / 活用未来 / フィラメント吸水性 / 加飾塗装 / Markforged FX10 / Onyx平滑化(chat/report) / PEEK
+- **ガラス** (`res.glass.*`): 強度評価4PB/RoR / スリミング
+- **塗装・加飾** (`res.coating.*`): 環境対応型機能性塗料 / 透過加飾技術
+- **照明** (`res.lighting.*`): RGB-LED温度特性 / アンビエント棒照明
+- **電気** (`res.electrical.*`): 板金GNDフレーム / 性能動作マトリクス
+- **材料/その他**: CFRTP車載ディスプレイフレーム / FineXメタルメッシュ / 分散マニュファクチャリング / 当たり図DR / Teams議事録ガイド / Keyence 3DP IP / AIエッセイ / IPONCネジの本質
+- _(旧KB第1波取り込み・`layer: raw`)_
+
+---
+
+## 旧KB raw アーカイブ (90_sources/raw/) — 第2波・第3波
+
+> 第2波・第3波は `doc_type: source` / `layer: raw` で保全。canonical 昇格は使う時に遅延（Index Now, Polish Later）。
+
+- `old-kb-monthly-reports/` — 月次業務レポート 14（2025-04〜2026-03, `source.monthlyreports.*`）
+- `old-kb-work-notes/` — 業務ノート・学習 19（`source.worknotes.*`）
+- `old-kb-methods/` — 手法・プロンプト・ツール資産 24（`source.methods.*`）
+- `old-kb-projects/` — 終了/非現役案件 20（21CY・24CY非現役・IPONC, `source.projects.*`）
 
 ---
 
